@@ -2,28 +2,35 @@
 layout: default
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
+<div>
+  <section>
+  My name is Austen Ito. I'm currently learning Rails <a
+    href="https://twitter.com/#!/HungryAcademy">@hungryacademy</a>
+  <p>
+  <h1>Contact</h1>
+  <ul>
+    <li><a href="https://twitter.com/#!/austenito">@austenito</a></li>
+    <li><a href="https://github.com/austenito">Github</a></li>
+    <li><a href="http://www.linkedin.com/pub/austen-ito/9/61a/9a5">LinkedIn</a></li>
+    <li>austen.dev [at] gmail</li>
+  </ul>
+  </section>
+  <section>
+  <h1>Projects</h1>
+  <ul>
+    <li><a href="http://hicapacity.org/">Co-founder @hnlmakerspace</a></li>
+    <li><a href="http://playlistdio.com">Playlistdio</a></li>
+    <li><a href="https://chrome.google.com/webstore/detail/jlblpcjfpmeompgekbiheomnnminnmao">Dealios</a></li>
+    <li><a href="http://rails.pockethotline.com/">Volunteer at Rails Pocket Hotline</a></li>
+  </ul>
+  </section>
+  <section>
+  {% if site.blog_index_asides.size %}
+  {% include_array blog_index_asides %}
+  {% else %}
+  {% include_array default_asides %}
+  {% endif %}
+  </section>
 </div>
 <aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
 </aside>
