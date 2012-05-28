@@ -1,9 +1,0 @@
----
-layout: post
-title: "Sometimes I hate Ant"
-date: 2007-11-02
-comments: false
----
-
-<div class='post'>
-I wonder what the <a href="http://ant.apache.org/">Ant</a> designers had in mind when they decided to not include the ability to have if-else logic.  Tonight I started work on some Ant macros to simplify the invoking of Hackystat version 8 sensors on the current set of Hackystat 8 projects.  I wanted the ability to print out a message saying, "You dont have the Hackystat 8 ant sensors installed so I'm not sending data."  Seems pretty straight forward.<br /><ol><li>Check if the ant sensors exist.</li><li>If the ant sensor doesn't exist, print out a message, do not send data.</li><li>If the ant sensor does exist, send the data, drink some beer.</li></ol>What that simple if-else logic mutates into is:<br /><ol><li>Write a task that checks for the antsensor jar file.</li><li>Write a task that invokes the sensor if the jar file exists.</li><li>Write a task that prints a message if the sensor doesn't exist.</li><li>Write a task that invokes the three previous tasks.</li></ol>I spare you the 50 or so lines of ant code that I need to write just to have some simple if-else logic.  I find it incredibly bogus that if-else can only be represented by setting properties and including an "if or unless" attribute in the target tasks.  Not having a target embedded conditional task just makes me angry.  The <a href="http://ant-contrib.sourceforge.net/">Ant-Contrib</a> Ant task extension attempts to add additional features that Ant doesn't include.<br /><br />Can't I just have a built in if-else clause?<br /><br />On a side note, I noticed that version 7 sensor data sending code would fail the build if the sensor was not installed.  Hackystat developers really should be "eating their own dog food", so it probably will be OK to require that they install their sensors.</div>
