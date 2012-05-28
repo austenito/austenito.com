@@ -1,0 +1,37 @@
+---
+layout: post
+title: "FogBugz Evidence Based Scheduling Part 1"
+date: 2007-11-09
+comments: false
+---
+
+<div class='post'>
+The other night I was sweeping through my feed reader as usual when I came across a <a href="http://feeds.feedburner.com/%7Er/SoftwareByRob/%7E3/165761072/">blog</a> talking about <a href="http://www.fogcreek.com/FogBugz/docs/60/topics/schedules/Evidence-BasedScheduling.html">FogBugz Evidence Based Scheduler</a>. <br /><br /><blockquote>In evidence-based scheduling a completion date is constructed from developer estimates, but the completion date is actually a range of dates with probabilities that each date will be met. So you can look at the calendar and say “We have a 50% chance of finishing by October 31st, and a 90% chance of finishing by November 23rd.” In addition, the schedule is based on the developers’ past estimating accuracy, so the better their estimates (compared to their actual time spent), the tighter the completion timeframe. Bad estimators means a wider timeframe.</blockquote><br />"Wow",  I thought.  That sounds pretty good since I am a horrible estimator.  I can't give a good estimate until I get waist deep into my task.  I ask Aaron about it and he shuts me down:<br /><br /><span style="color: rgb(51, 204, 0);">Austen</span>: [Evidence Based Scheduling] is awesome. <br /><span style="color: rgb(255, 0, 0);">Aaron</span>: you think Evidence Based Scheduling is awesome?<br /><span style="color: rgb(255, 0, 0);">Aaron</span>: Write a blog on how that sucks.<br /><span style="color: rgb(255, 0, 0);">Aaron</span>: estimates probably sucks.  I think software engineering research people would eat that up and show how it sucks.<br /><span style="color: rgb(51, 204, 0);">Austen</span>: I think its good.  Why do u think estimates suck? is it because they are never accurate?<br /><span style="color: rgb(255, 0, 0);">Aaron</span>: First of all, it is leap. Leap sucks.   It is almost like PSP.  Psp sucks.  Read Philip's and Ann Diseny's papers on that.<br /><br />So my next task is to check out Philip and Ann Disney's Papers on <a href="http://csdl.ics.hawaii.edu/Research/PSP/PSP.html">PSP Data Quality</a>.  Hopefully it will help me understand why estimation "sucks."</div>
+<h2>Comments</h2>
+<div class='comments'>
+<div class='comment'>
+<div class='author'>russ</div>
+<div class='content'>
+The evidence is what you make it. Lies, Damned Lies, and Statistics.<BR/><BR/>I use the Leap timer for two things: helping me to remember to be focused on one thing (multi-tasking bad) and to do the yearly performance eval (hmmm, what did I do all last year?).</div>
+</div>
+<div class='comment'>
+<div class='author'>austen.ito</div>
+<div class='content'>
+Great conversation.  I'm finding how little I know about why Hackystat is so great when compared to the current industry.  <BR/><BR/>I think its time to do some research at: http://csdl.ics.hawaii.edu/Publications/MasterList.html<BR/><BR/>;)</div>
+</div>
+<div class='comment'>
+<div class='author'>aaron</div>
+<div class='content'>
+so, it took 10 years to get it into the main stream tool industry? see <A HREF="http://www.joelonsoftware.com/items/2007/10/29.html " REL="nofollow">joel's own feedback</A><BR/><BR/>what is the sense of self generated estimates in a highly repetitive programming environment. if everything is the same, then the estimates from last year should work the same. <BR/><BR/>anyway, i'm not sure philip saw this part of EBS. <BR/><BR/><I>“We’re rolling out FogBugz 6.0 at work, and I’m finding that I actually like the time tracking. For one thing, it’s a tool for focus. When you kick off the timer on a task, you don’t want to jump around and multitask because it will just throw off the timer. The timer feature itself is pretty easy to use.”</I> -- <A HREF="http://www.joelonsoftware.com/items/2007/10/29.html" REL="nofollow">Some Feedback on EBS</A><BR/><BR/>The reason why that timer thing is crazy is: <A HREF="http://csdl.ics.hawaii.edu/Publications/MasterList.html#csdl2-01-12" REL="nofollow"><I>You can't even ask them to push a button: Toward ubiquitous, developer-centric, empirical software engineering</I></A><BR/><BR/>so, i still have two issues.<BR/>1) crazy timer thing<BR/>2) EBS works well in repetitive tasks in a stable environment, so why does one need self reported estimations. in that case, the manager should be able to tell you, you have 3 days and it should actually take 3 days.</div>
+</div>
+<div class='comment'>
+<div class='author'>Philip Johnson</div>
+<div class='content'>
+Evidence-based scheduling is not new.  The PSP provided support for this 10 years ago, where estimates included confidence intervals based upon historical data of actuals vs. predicted.<BR/><BR/>My belief is that evidence based scheduling has been, and will continue to be, helpful to organizations where there is a high level of stability in personnel, team structure, development process, and application domain, plus a need to precisely characterize costs and resources.</div>
+</div>
+<div class='comment'>
+<div class='author'>aaron</div>
+<div class='content'>
+sucks is a harsh word. i don't mean sucks like it sucks. but i mean sucks like it sucks. :) <BR/><BR/>haha. first off - Leap does not suck. I was just being harsh. The problem isn't with the software, it was with the approach. The approach that people will self report about what they are doing is not realistic. Its called measurement dysfunction. Its kinda like how users don't know what they want. PSP and Leap were stepping stones for what we have now with Hackystat. And in Hackystat we haven't really found a good use for Active Time. <BR/><BR/>secondly - estimation doesn't suck. But, IMHO it seems like FogBugz is using self-reporting to figure out estimations. I suppose that is what estimations is all about. However, i seriously don't understand how it will work in practice. The bottom line is that it seems that measurement dysfunction has a high probability of affecting their results. <BR/><BR/>i've read only a little bit about EBS. so, i would like to hear what other people think as well. <BR/><BR/>EBS might work for certain people. "Disciplined people"... haha, i think i heard that argument before.  Brooks would say, "does EBS attack the essence of the estimation problem?" I don't think so. At the very best, it is an accidental improvement (unless of course it actually hurts the development process by producing inaccurate estimations).  <BR/><BR/>anyway, this is a good software engineering research discussion. sounds like a research project.<BR/><BR/>(one last thing -- when software tools provide claims they should provide the science behind why it makes sense. we should be doing that too. we (and everyone) shouldn't just be making pretty charts and saying this is going to revolutionize the industry. that is bogus! There is NO SILVER BULLET)</div>
+</div>
+</div>

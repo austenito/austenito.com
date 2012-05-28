@@ -1,0 +1,17 @@
+---
+layout: post
+title: "We need a Hackystat developer config script"
+date: 2008-02-24
+comments: false
+---
+
+<div class='post'>
+I recently setup my machine to run Ubuntu Gutsy, so that means that I have to install all of the apps and redo my Hackystat configuration.  I decided to put off reconfiguring Hackystat until I really needed to since it's takes awhile.  Tonight I wanted to run the latest Sensorbase so I needed to setup my environmental variables.  Here are the libraries I had to manually download and setup to create Sensorbase binary.  *deep breath*<br /><ol><li>Junit 4.4</li><li>Pmd 4.1</li><li>Restlet</li><li>Derby</li><li>Findbugs 1.3.2<br /></li><li>Javamail<br /></li></ol>Followed by creating the following environmental variables:<br /><ol><li>JUNIT_HOME=/home/austen/sideProjects/external_libs/junit-4.4</li><li>PMD_HOME=/home/austen/sideProjects/external_libs/pmd-4.1</li><li>RESTLET_HOME=/home/austen/sideProjects/external_libs/restlet-1.0.</li><li>DERBY_HOME=/home/austen/sideProjects/external_libs/db-derby-10.3.2.1-bin</li><li>FINDBUGS_HOME=/home/austen/sideProjects/external_libs/findbugs-1.3.2</li><li>JAVAMAIL_HOME=/home/austen/sideProjects/external_libs/javamail-1.4.1</li></ol><br />Then I found out that I need to build the Hackystat Utilities module before I could create the Sensorbase binary.  More downloading...<br /><ol><li>Apache Jcs 1.3</li><li>Apache Common Logging 1.1<br /></li></ol>And more configuration...<br /><ol><li>APACHE_JCS_HOME=/home/austen/sideProjects/external_libs/jcs-1.3</li><li>APACHE_COMMONS_LOGGING_HOME=/home/austen/sideProjects/external_libs/commons-logging-1.1</li><li>HACKYSTAT_UTILITIES_HOME=/home/austen/sideProjects/hackystat/hackystat-utilities</li></ol><br />Phew.  That was quite a bit of setup just to build one jar file.<br /><br />Another thing that bugs me was I downloaded the wrong version of Apache Commons Logging.  I  downloaded the latest release, which happened to be v1.1.1 instead of v1.1.  Since I have done the setup before I automatically knew what was wrong, but new developers might not get it right away.  I'm thinking that the error messages should specify what jar file the build wants. <br /><br />What we need is to have a little shell script that goes out and grabs the current files, extracts them to the specified location, and sets your environmental variables up.  So all those steps turns into two. <br /><ol><li>Write the appropriate install folder location.</li><li>Invoke the script from the shell of your choice.</li></ol>Any takers?</div>
+<h2>Comments</h2>
+<div class='comments'>
+<div class='comment'>
+<div class='author'>Philip Johnson</div>
+<div class='content'>
+I think the appropriate hammer for this particular nail is called "Maven". <BR/><BR/>I've always thought Maven has a lot of potential, but haven't had the time to really get in there and figure it out.  <BR/><BR/>Cheers,<BR/>Philip</div>
+</div>
+</div>

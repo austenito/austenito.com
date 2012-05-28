@@ -1,0 +1,17 @@
+---
+layout: post
+title: "IDE's should not have to compete on their suite of available plugins"
+date: 2007-09-21
+comments: false
+---
+
+<div class='post'>
+The title of this blog is inspired by a one of my very smart coworkers, <span style="font-size:100%;"><span style="font-style: italic;">"IDEs should not have to compete on their suite of available plugins, but on  their core editor's usability."</span></span>   My coworker said this in reference to <a href="http://code.google.com/p/jupiter-eclipse-plugin/">Jupiter</a>, which is an Eclipse review tool plugin.  My coworker is a Netbeans users and was asked to use Jupiter to speed up the review process.   At work there is a collossal IDE war.  In one camp we have the Netbeans user's who feel that introducing <a href="http://www.netbeans.org/community/releases/60/">features that existed 3 years ago in Eclipse</a> is the way to go.   And in the other camp we have the superior Eclipse users.  (Can you tell I am a happy Eclipse user?)  I am over exaggerating, both IDEs have their pros and cons.  But the point is that users shouldn't have to chose an IDE based on what suite of plugins are available.  Netbeans users should be able to use Jupiter.  Developers shouldn't have to learn the Netbeans API in order to write a Jupiter plugin with the same core functionality.<br /><br />What my coworker suggested was the creation of a Generic Framework that allowed other developers to create "IDE Adapters", which would allow a plugin to be written only once.  For example, in the case of Jupiter, a developer would be able to write a Jupiter plugin against the Generic IDE Framework.  The plugin could then be adapted to the developers IDE of choice.  Sounds so simple doesn't it?  One plugin that can be ported to multiple IDEs.<br /><br />The tradeoff is that the Generic API will lose the IDE functionality that is not common to all IDEs as my coworker says: <span style="font-style: italic;">"The </span><span style="font-style: italic;font-size:100%;" >API would be limited to the lowest common denominator of features."  </span>How much functionality will be lost?  Who knows, maybe too much will be lost because certain features do not exist in others.<br /><br />In general I think this is a interesting, complex, useful idea.  If we could get everyone using the same set of tools regardless of IDE preference, we would be a lot more productive.  Maybe there wouldn't be an IDE war.  There would be peace in HackerLand with Netbeans users wondering what it would be like to code ultra fast with all of the sweet Eclipse shortcuts and Eclipse users thinking, <span style="font-style: italic;">"Maybe a Swing based IDE isn't so bad after all".<br /><br /><span style="font-style: italic;"><span style="font-style: italic;"></span></span></span>A dream perhaps?<span style="font-style: italic;"><span style="font-style: italic;"><span style="font-style: italic;"></span></span><br /></span></div>
+<h2>Comments</h2>
+<div class='comments'>
+<div class='comment'>
+<div class='author'>aaron</div>
+<div class='content'>
+haha. cool posting. the title of this posting should have been, "plugin writers revolt".  oh and it sounds like this coworker should have a blog of his own.</div>
+</div>
+</div>

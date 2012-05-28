@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Hackystat + Ivy = Win?"
+date: 2009-04-22
+comments: false
+---
+
+<div class='post'>
+<p style="clear: both"></p><p style="clear: both">It's Google Summer of Code time so I checked out Hackystat and tried to build it from source. A couple hours later, my Hackystat development environment was setup. Ouch.</p><p style="clear: both">The hardest part about setting up my environment were all of the tool dependencies. To build </p><p style="clear: both"><a href="http://code.google.com/p/hackystat-utilities/">hackystat-utilities</a>, <a href="http://code.google.com/p/hackystat-sensorbase-uh/">hackystat-sensorbase-uh</a>, <a href="http://code.google.com/p/hackystat-sensor-shell/">hackystat-sensorshell</a>, I needed to the following libraries:</p><p style="clear: both; text-align: left;clear: both; text-align: left;"><img src="http://2.bp.blogspot.com/_gZ-LJtj9hxw/SfAz36BInkI/AAAAAAAAApE/sNlLCtKBYyw/s320/Picture+1.png" height="184" width="201" style=" text-align: center; display: block; margin: 0 auto 10px;" /><br /> Then I needed to set the following environmental variables:<ol style="clear: both"><li>HACKYSTAT_<em>UTILITIES_</em>HOME</li><li>HACKYSTAT_<em>SENSORBASE_</em>HOME</li><li>JUNIT_<em>HOME</em></li><li>FINDBUGSHOME<br /></li><li>APACHE<em>JCS</em>HOME<br /></li><li>APACHE<em>COMMONS</em>LOGGING<em>HOME<br /></em></li><li>RESTLETHOME<br /></li><li>JAVAMAIL<em>HOME<br /></em></li><li>DERBYHOME<br /></li><li>CHECKSTYLE<em>HOME<br /></em></li><li>EMMAHOME<br /></li><li>HACKYSTAT<em>ANTSENSORS</em>HOME<br /></li><li>ANT<em>ARGS<br /></em></li><li>PMDHOME</li></ol></p><p style="clear: both">As a developer it would be cool if I could check out the source files and run a couple of ant targets to retrieve the dependencies.</p><p style="clear: both">At work I've been experimenting with <a href="http://ant.apache.org/ivy/">Ivy</a> to download my project's dependencies. I download the dependencies to the project's library directory via an Ivy ant task and I'm done. There is no need to configure any environmental variables because the build script knows the "Home Folder" of the external libraries.</p><p style="clear: both">I checked on the <a href="http://groups.google.com/group/hackystat-dev">Hackydev Mailing List</a> and found a thread started by Aaron a long time ago called <a href="http://groups.google.com/group/hackystat-dev/browse_thread/thread/ce03a4ae3283fd8/f8cbdf93fcb277b0?lnk=gst&amp;q=Ivy+#f8cbdf93fcb277b0">Ivy for Java hackystat dependency management</a>.</p><p style="clear: both">I think it would be really useful if it were easiser for new developers to check out the source and start hacking. Integrating Ivy into Hackystat's build system might be a useful project and help to reduce Hackystat's hacking entry barrier.</p><p style="clear: both"></p><br class='final-break' style='clear: both' /></div>
+<h2>Comments</h2>
+<div class='comments'>
+<div class='comment'>
+<div class='author'>Purnank Harjivanbhai Ghumalia</div>
+<div class='content'>
+Sure Setting up environment is difficult, with so many libraries :)<br /><br />For the time-being, this is what I did to remain away from all the juggleries to set all the environment variables.<br /><br />http://purnank.in/2008/09/developing-hackystat-on-your-pc/</div>
+</div>
+<div class='comment'>
+<div class='author'>Philip Johnson</div>
+<div class='content'>
+Funny you mention this. I am planning to start integrating Ivy with Hackystat next week. <br /><br />Great minds think alike!</div>
+</div>
+</div>
