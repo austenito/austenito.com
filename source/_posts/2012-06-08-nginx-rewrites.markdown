@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nginx_rewrites"
+title: "nginx rewrites"
 date: 2012-06-08 14:58
 comments: true
 categories: 
