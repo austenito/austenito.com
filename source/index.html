@@ -1,38 +1,19 @@
 ---
-layout: default
+layout: base
+current: blog
 ---
 
-<div>
-  <section>
-  My name is Austen Ito. I'm currently learning Ruby and Rails <a
-    href="https://twitter.com/#!/HungryAcademy">@hungryacademy</a>
-  <p>
-  <h1>Contact</h1>
-  <ul>
-    <li><a href="https://twitter.com/#!/austenito">@austenito</a></li>
-    <li><a href="https://github.com/austenito">Github</a></li>
-    <li><a href="http://www.linkedin.com/pub/austen-ito/9/61a/9a5">LinkedIn</a></li>
-    <li>austen.dev [at] gmail</li>
-  </ul>
-  </section>
-  <section>
-  <h1>Misc</h1>
-  <ul>
-    <li><a href="http://hicapacity.org/">Co-founder @hnlmakerspace</a></li>
-    <li><a href="http://playlistdio.com">Playlistdio</a></li>
-    <li><a href="https://chrome.google.com/webstore/detail/jlblpcjfpmeompgekbiheomnnminnmao">Dealios</a></li>
-    <li><a href="http://rails.pockethotline.com/">Volunteer at Rails Pocket Hotline</a></li>
-    <li><a href="http://www.ics.hawaii.edu/academics/academic-profile-austen-ito">Profiled on the University of Hawaii ICS website</a></li>
-    <li><a href="http://www.youtube.com/watch?feature=player_embedded&v=8PBigVoYfGo">Ignite Honolulu: Geeks vs. Nerds</a></li>
-  </ul>
-  </section>
-  <section>
-  {% if site.blog_index_asides.size %}
-  {% include_array blog_index_asides %}
-  {% else %}
-  {% include_array default_asides %}
+{% assign index = true %}
+{% for post in paginator.posts %}
+  {% assign content = post.content %}
+  <div class="post"> {% include article.html %} </div>
+{% endfor %}
+
+<div id="pagination">
+  {% if paginator.next_page %}
+    <a class="prev" href="{{ paginator.next_page }}">&laquo;Previous</a>
   {% endif %}
-  </section>
+  {% if paginator.previous_page %}
+    <a class="next" href="{{ paginator.previous_page }}">Next&raquo;</a>
+  {% endif %}
 </div>
-<aside class="sidebar">
-</aside>

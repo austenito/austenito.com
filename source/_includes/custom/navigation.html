@@ -1,4 +1,19 @@
-<ul class="main-navigation">
-  <li><a href="{{ root_url }}/">Home</a></li>
-  <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
+<ul id="nav">
+  {% if page.current == 'blog' %}
+    <li> <a href="{{ root_url }}/" class="current">blog</a> </li>
+  {% else %}
+    <li> <a href="{{ root_url }}/">blog</a> </li>
+  {% endif %}
+
+  {% if page.current == 'archives' %}
+    <li><a href="{{ root_url }}/blog/archives" class="current">archives</a></li>
+  {% else %}
+    <li><a href="{{ root_url }}/blog/archives">archives</a></li>
+  {% endif %}
+
+  {% if page.current == 'about' %}
+    <li><a href="{{ root_url }}/blog/about" class="current">about</a></li>
+  {% else %}
+    <li><a href="{{ root_url }}/blog/about">about</a></li>
+  {% endif %}
 </ul>
