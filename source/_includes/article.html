@@ -13,13 +13,12 @@
 		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
 		{% if excerpted == 'true' %}<a href="{{ root_url }}{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
     <p/>
+    {% if site.disqus_short_name and site.disqus_show_comment_count == true %}
+      <span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Comments</a></span>
+    {% endif %}
 	</div>
 {% else %}
 	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="entry-content">{{ content }}</div>
-{% endif %}
-
-{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
-  <span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Comments</a></span>
 {% endif %}
 
