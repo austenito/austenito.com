@@ -18,7 +18,8 @@
     {% endif %}
 	</div>
 {% else %}
-	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
+  {% include post/date.html %}{{ time }}
+  <h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="entry-content">{{ content }}</div>
 {% endif %}
 

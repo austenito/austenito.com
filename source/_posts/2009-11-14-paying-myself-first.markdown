@@ -3,7 +3,7 @@
 layout: post
 title: "Paying Myself First"
 date: 2009-11-14
-comments: false
+comments: true
 ---
 
 

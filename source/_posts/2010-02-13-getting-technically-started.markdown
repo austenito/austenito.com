@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Technically Started"
 date: 2010-02-13
-comments: false
+comments: true
 ---
 
 

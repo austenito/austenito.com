@@ -3,7 +3,6 @@ layout: post
 title: "nginx rewrites"
 date: 2012-06-08 14:58
 comments: true
-categories: 
 ---
 
 Our current project at [Hungry Academy](http://hungryacademy.com) is to create

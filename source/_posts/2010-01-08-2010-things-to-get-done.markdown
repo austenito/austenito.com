@@ -3,7 +3,7 @@
 layout: post
 title: "2010 Things to Get Done"
 date: 2010-01-08
-comments: false
+comments: true
 ---
 
 

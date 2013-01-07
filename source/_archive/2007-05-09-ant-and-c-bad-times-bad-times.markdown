@@ -2,7 +2,7 @@
 layout: post
 title: "ant and c++ bad times...bad times."
 date: 2007-05-09
-comments: false
+comments: true
 ---
 
 

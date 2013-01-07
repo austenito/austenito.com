@@ -3,7 +3,7 @@
 layout: post
 title: "Why Everyone Should Get Interviewed"
 date: 2007-12-21
-comments: false
+comments: true
 ---
 
 

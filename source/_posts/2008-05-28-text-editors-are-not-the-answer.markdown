@@ -3,7 +3,7 @@
 layout: post
 title: "Text editors are not the answer"
 date: 2008-05-28
-comments: false
+comments: true
 ---
 
 

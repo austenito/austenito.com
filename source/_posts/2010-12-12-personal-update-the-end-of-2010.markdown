@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Update: The end of 2010"
 date: 2010-12-12
-comments: false
+comments: true
 ---
 
 

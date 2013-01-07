@@ -3,7 +3,7 @@
 layout: post
 title: "Hacking Fitness"
 date: 2007-10-14
-comments: false
+comments: true
 ---
 
 

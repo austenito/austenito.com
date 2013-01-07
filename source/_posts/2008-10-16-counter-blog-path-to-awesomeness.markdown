@@ -3,7 +3,7 @@
 layout: post
 title: "Counter-Blog:  Path to Awesomeness"
 date: 2008-10-16
-comments: false
+comments: true
 ---
 
 

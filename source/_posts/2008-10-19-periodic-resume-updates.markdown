@@ -3,7 +3,7 @@
 layout: post
 title: "Periodic Resume Updates"
 date: 2008-10-19
-comments: false
+comments: true
 ---
 
 
