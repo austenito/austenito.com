@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "2013_things_to_get_done"
-date: 2013-01-08 08:28
+title: "2013 Things to Get Done"
+date: 2013-01-13 21:00:00
 comments: true
-categories: 
 ---
 
 I love writing these "State of the Union" blog posts. It's always fun to take a 
