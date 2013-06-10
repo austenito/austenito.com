@@ -18,9 +18,12 @@ body{
   }
 }
 a{
-  text-decoration: none;
+  text-decoration: underline;
   outline-width: 0;
   color: $color-main;
+}
+a:hover {
+  color: $color-link-hover;
 }
 .alignleft{
   float: left;

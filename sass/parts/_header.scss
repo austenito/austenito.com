@@ -11,11 +11,12 @@ $header-height: 30px;
     padding-bottom: 10px;
   }
   a{
-    color: $color-gray01;
+    color: $color-main;
     @include transition(color 0.3s);
     &:hover{
       color: $color-main;
     }
+    text-decoration: none;
   }
   h1{
     float: left;
