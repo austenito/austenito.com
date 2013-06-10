@@ -8,7 +8,7 @@ comments: true
 I love writing these "State of the Union" blog posts. It's always fun to take a 
 look at what I was feeling during a different point in my life. 
 
-# 2011 End of the Year Update
+#### 2011 End of the Year Update
 
 So let's recap on what did in 2011.
 
@@ -45,7 +45,7 @@ things like:
 * Participating in Startup Weekend
 * Organzing meetups and nerdy things
 
-# What happened in 2012
+### What happened in 2012
 
 And then there was 2012. What. a. year.
 
@@ -74,7 +74,7 @@ witnessed a walk-off home run and a crushing collapse.
 * Visted Quinn and Sue in Lusby, Maryland in a Mini Cooper (Go ZipCar!)
 * Experienced my first white Christmas in Baltimore. Snowball fight included.
 
-# What's coming up in 2013?
+### What's coming up in 2013?
 
 As the years go by as a developer, I find myself focusing less on
 software and more on my life. There are things I want to do this
