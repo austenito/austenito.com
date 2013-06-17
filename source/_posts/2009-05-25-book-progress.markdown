@@ -19,7 +19,10 @@ construction. My code is _a lot_ cleaner. The last chapter in the book, "Smells 
 something all developers should read. I plan on giving it to developers on my company's engineering team.
 Next on the reading list is the GoF book. It's interesting to come back to a book years later. A quick 
 scan through the patterns shows me that I have forgotten a bunch. I can't wait to get through it again. 
-The GoF book is great. I'll write more as a I plow through it.Also Google Summer of Code is ramping up. 
+The GoF book is great. I'll write more as a I plow through it.
+
+Also Google Summer of Code is ramping up. 
+
 Time to get to work!
 
 

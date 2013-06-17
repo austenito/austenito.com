@@ -21,7 +21,7 @@ responsibilities other than whipping out lines of source. Specializing in someth
 an agile developer is much more useful to your peers. If you understand the different aspects of 
 software, you can apply your knowledge to challenges you face in every facet of development. I've learned 
 over the years that just being familiar with what people are talking is HUGE. It gives you a basis when 
-you start learning new stuff on [The Google][3] The only way to get to that nice and comfy "I've heard 
+you start learning new stuff on [The Google][3]. The only way to get to that nice and comfy "I've heard 
 of that before" place is to dive into as many new things as possible.
 
 Staying agile is important and a small company helps you do that. It helps you and your team get things 

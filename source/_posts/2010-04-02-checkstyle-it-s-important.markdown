@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-People have a love/hate relationship with [Checkstyle][1] Some people, myself included, are in the 
+People have a love/hate relationship with [Checkstyle][1]. Some people, myself included, are in the 
 love camp. We include it in our development process. We strive for 0 checkstyle warnings. We fear 
 committing Checkstyle warnings because of the ensuing shame resulting from [Hudson][2] unstable build 
 emails. Other people tend to hate checkstyle. They think that checkstyle piles on work on the already 
@@ -42,9 +42,9 @@ impose the same documentation standards on yourself that you wish everyone else 
 the argument of "Why should I care about checkstyle?  I know how to document". Even if it were true that 
 you always wrote great documentation, 99.9% of us aren't like you. We need help verifying that we are 
 indeed following code style standards. Checkstyle keeps us honest. After all, we are developers and 
-developers are lazy. Sometimes we need a little prodding to keep ourselves disciplined.Checkstyle is 
-just a tool. If you don't use the tool correctly, then of course it's going to suck. Used in the right 
-way it's extremely powerful, even for something as seemingly trivial as code style.
+developers are lazy. Sometimes we need a little prodding to keep ourselves disciplined.
+
+Checkstyle is just a tool. If you don't use the tool correctly, then of course it's going to suck. Used in the right way it's extremely powerful, even for something as seemingly trivial as code style.
 
 
 

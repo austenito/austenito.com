@@ -30,7 +30,7 @@ aldkasjfasdlfjlasdfsf"`
 This was after half a martini. I'm a lightweight drinker, but this was ridiculous. My motor skills were 
 not kicking in tonight when I was trying to code. Even when I had to figure out why something was 
 working, I felt no difference in my ability to debug. I actually got more frustrated cause it didn't make 
-sense. My thinking was just clouded from the alcohol.Worst hacking experience. ever.
+sense. My thinking was just clouded from the alcohol. Worst hacking experience. ever.
 
 (You Hackystat hackers out there know I tried doing this the day before our we get ready for the public 
 release. It's ok. Unit tests pass. Woohoo!)

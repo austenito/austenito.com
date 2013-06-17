@@ -23,7 +23,7 @@ I'm thinking that eventually we will be needing a tool like HackyInstaller, but 
 environmental variables. 
 4. It should also manage the user's current installation so they can remove or change their current 
 settings. 
-5. After developing some Ruby on Rails, I found that using [Instant Rails][2]  was great for quickly 
+5. After developing some Ruby on Rails, I found that using [Instant Rails][2] was great for quickly 
 starting development. It would be great if we could start a contained Hackystat development environment 
 that started a local sensorbase service and provided some debugging utilities.
 

@@ -17,7 +17,7 @@ have made.
 1. No offense and defense - The first couple of reviews I attended/moderated, I attacked peoples code and 
 defended issues I found. I learned that it is very important not to think about reviews in terms of being 
 on the offensive when pointing out issues and playing "tough defense" when explaining why issue x should 
-be solve with that new awesome design pattern you found in [Head First Design Patterns][3] You must be 
+be solve with that new awesome design pattern you found in [Head First Design Patterns][3]. You must be 
 respectful of everyone's code. More often than not, they spent 100x longer deciding whether to make a 
 certain decision.  If something is weird, point it out, and ask for their input in a respectful manner. 
 2. Give people the benefit of the doubt - People are smart. Most times they are smarter than you. (At 

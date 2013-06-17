@@ -9,9 +9,9 @@ comments: false
 
 The past month or so has been spent setting up [Hackystat][1] at work and hacking on a Rails [Daily Project Data][2] viewer. So far the going has been pretty slow. Several things came up like working on 
 the [Netbeans Innovators Grant][3] proposal and preparing for a intern speech at the University of Hawaii.
-Excuses, excuses I know.The good thing is that tonight I came across a nifty Rails charting plugin called [Open Flash Chart][4] A cool hacker wrote a Rails wrapper around the php package. I did some quick 
-plugin installation, copied some example code, and hooked it up to the data retrieved from the Daily 
-Project Data webservice:
+Excuses, excuses I know.
+
+The good thing is that tonight I came across a nifty Rails charting plugin called [Open Flash Chart][4]. A cool hacker wrote a Rails wrapper around the php package. I did some quick plugin installation, copied some example code, and hooked it up to the data retrieved from the Daily Project Data webservice:
 
 [![][5] ][6] 
 
@@ -34,7 +34,7 @@ I find it very cool that the new architecture allows us to have multiple viewer 
 Pavel have the [SensorDataBrowser][7] and [ProjectViewer][8] modules up and running, but I really wanted 
 to do some Rails hacking. So I just fired up a service and created my own view. I love it.
 
-The source for the project is hosted on the [Google Code Site][9] There isn't much there besides the 
+The source for the project is hosted on the [Google Code Site][9]. There isn't much there besides the 
 source, but I wanted a place to commit my code. [Josh Stupplebeen][10] is also going to help out since 
 he wants to get back into hacking Hackystat and wants more Rails experience.
 

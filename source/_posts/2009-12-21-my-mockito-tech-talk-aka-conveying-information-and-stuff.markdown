@@ -9,21 +9,20 @@ comments: false
 
 It seems that 3 weeks after writing [Paying Myself First][1], I have already failed. Well not completely.
 I haven't been writing down my thoughts in blog form because I've been preparing slides for a tech talk at 
-work. I've been wanting to give a talk about [Mockito][2] My project is on a transition point so I 
+work. I've been wanting to give a talk about [Mockito][2]. My project is on a transition point so I 
 figured that it would be imperative to give a talk this month before we ramp up again in January.
 
 I suck at public speaking. 
 
 That process of reading your audience. Conveying information. All of that 
 stuff. Who needs it right?  Hook me up with my IDE, give me a fridge full of diet mountain dew and get 
-out of my way. I got things to do. If only the world worked that way.Since I'm on this whole, let's work 
-hard and do awesome kick, I've been looking at public speaking as an area to focus on. After all, if I 
-want to be able to lead software teams, I need to be able to be someone who is able to be informative and 
-also know what the hell they are talking about. I've done the whole Toastmasters thing before. I like 
-the concept, but I didn't like the structure and organization of the particular group I was a part of. So without any outside help, I got to searching on how I could improve my slides and effectively present 
-a technical presentation to my peers.And the search began.
+out of my way. I got things to do. If only the world worked that way.
 
-I found this interesting PDF using the Google: [Presentation Tips - How to Give a Technical Presentation][3] It's main points were to break up your presentation into distinct beginning, middle, and end sections. The normal presentation layout, which I totally brainfarted on. My presentation sections were a mess. I didn't show any importance, background, or motivation in the beginning. I had no illustrations to help my audience during the meat of my presentation. The end was the best part, most likely because the slides came to end. When I fixed my slides a bit, I changed my presentation's beginning to grab my audience's attention with some facts about my project's level of code coverage. The middle gave the basic functionality of Mockito such as mocking, stubbing and verifying. I added some code examples and gave some background on when and why you would want to use Mockito's features. There were a lot of questions that were brought up during this part of the talk. Some were of mocking and stubbing use-cases and others were related to project specific usages.
+Since I'm on this whole, let's work hard and do awesome kick, I've been looking at public speaking as an area to focus on. After all, if I want to be able to lead software teams, I need to be able to be someone who is able to be informative and also know what the hell they are talking about. I've done the whole Toastmasters thing before. I like the concept, but I didn't like the structure and organization of the particular group I was a part of. So without any outside help, I got to searching on how I could improve my slides and effectively present a technical presentation to my peers.
+
+And the search began.
+
+I found this interesting PDF using the Google: [Presentation Tips - How to Give a Technical Presentation][3]. It's main points were to break up your presentation into distinct beginning, middle, and end sections. The normal presentation layout, which I totally brainfarted on. My presentation sections were a mess. I didn't show any importance, background, or motivation in the beginning. I had no illustrations to help my audience during the meat of my presentation. The end was the best part, most likely because the slides came to end. When I fixed my slides a bit, I changed my presentation's beginning to grab my audience's attention with some facts about my project's level of code coverage. The middle gave the basic functionality of Mockito such as mocking, stubbing and verifying. I added some code examples and gave some background on when and why you would want to use Mockito's features. There were a lot of questions that were brought up during this part of the talk. Some were of mocking and stubbing use-cases and others were related to project specific usages.
 
 I got a sense of confusion from the audience at this point. I tried to use the List examples from the 
 Mockito documentation, but that turned out to be a bit too high-level for a presentation. Most of the 

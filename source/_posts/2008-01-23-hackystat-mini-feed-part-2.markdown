@@ -20,14 +20,12 @@ In order to separate the view from the mini-feed business logic, I need a new se
 
 This new service will allow multiple views such as the Rails webapp I'm writing, RSS feed viewers (Maybe 
 RSS isn't a view, but I want people to have that information available via RSS), twitter, and other apps 
-to be able to request the mini-feed information via webservice calls.Now what type of information can be 
-requested?I've only gotten through half of the RESTful Webservices book so I only know how (relatively 
-speaking since I'm still a REST noob) to design a service allowing clients to GET information. I'm 
-probably going to take a look at the telemetry service or the [SensorBaseClient][4] class in order to 
-figure out how to get my service working.With the new service comes a Mini-Feed REST API that I must design
-. I have to think of what type of information can be requested by clients. Here are some of my initial thoughts:
+to be able to request the mini-feed information via webservice calls.
 
-- Mini-feed information spanning all projects, kind of like what twitter does on it's public timeline.- Relevant mini-feed information for a specific project.
+Now what type of information can be requested? I've only gotten through half of the RESTful Webservices book so I only know how (relatively speaking since I'm still a REST noob) to design a service allowing clients to GET information. I'm probably going to take a look at the telemetry service or the [SensorBaseClient][4] class in order to figure out how to get my service working.With the new service comes a Mini-Feed REST API that I must design. I have to think of what type of information can be requested by clients. Here are some of my initial thoughts:
+
+- Mini-feed information spanning all projects, kind of like what twitter does on it's public timeline.
+- Relevant mini-feed information for a specific project.
 - Relevant mini-feed information for a set of users
 - The start and end time of the information can be specified to reduce/expand the grain size.
 - Webservice calls to filter the data. (Explanation below)The ideas I just listed above isn't anything new.
@@ -42,9 +40,11 @@ So what is this filtering I'm talking about?
 
 Pavel and Aaron turned me onto Facebook's News Feed preferences, which allows you to customize the 
 information that appears in your News Feed. The cool thing is that it doesn't completely remove all of 
-the information that you don't like. It just shows it less frequently.The goal would be to get this type 
-of control in my Rails webapp and request the user's customized information using the "Mini-Feed service 
-data filter" REST API.How does that sound?[][7] 
+the information that you don't like. It just shows it less frequently.
+
+The goal would be to get this type of control in my Rails webapp and request the user's customized information using the "Mini-Feed service data filter" REST API.
+
+How does that sound?[][7] 
 
 
   [1]: http://groups.google.com/group/hackystat-dev/msg/4ef6d1ed3ded82fd

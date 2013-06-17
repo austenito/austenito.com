@@ -26,7 +26,7 @@ Over the last two weeks, I've been trying to reach that point where I'm thinking
 
 I'm trying to Think Higher. 
 
-Rather than wondering what type of design pattern would fit best, I'm trying to move up the thought ladder.What types of things fit into the workflow of our users?  Is this useful? Where should our development focus be?
+Rather than wondering what type of design pattern would fit best, I'm trying to move up the thought ladder. What types of things fit into the workflow of our users?  Is this useful? Where should our development focus be?
 
 I am hoping that by changing the way I work, I'll be moving on towards gaining that elusive domain 
 knowledge. One of our tech leads at work has been helping me out. In my opinion, his greatest strength 

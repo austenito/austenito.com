@@ -71,7 +71,7 @@ save and spend with no remorse. I'm going to live this time around.
 # Personal Things to Get Done
 
 * Continue to pay myself first
-* I recently wrote a blog[paying myself first][4] I want to continue to go to
+* I recently wrote a blog[paying myself first][4]. I want to continue to go to
 the gym in the morning.
 * Read one library book a month
 * I've been using the library for about a 1.5 months now and I'm going to say

@@ -14,9 +14,9 @@ road leading to future changes, improvements, and success! Our latest release, l
 FixLaterReleaseNow or FLRN for short, mainly consisted of developers committing to the trunk. This caused 
 developers to commit unfinished, broken code to the mainline. When other developers would update, they 
 would pull the broken code into their local workspace. I'm not sure if this led to the code rot that 
-manifested itself, but something was wrong. Very very wrong.Perhaps there was a problem with our peer 
-reviews. We had little to none. The only set of eyes looking at the code were the author's. In FLRN we 
-used the [Jupiter Eclipse Plugin][1] to facilitate our peer reviews. Jupiter is a great tool, but there were two major sticking points for us: 
+manifested itself, but something was wrong. Very very wrong.
+
+Perhaps there was a problem with our peer reviews. We had little to none. The only set of eyes looking at the code were the author's. In FLRN we used the [Jupiter Eclipse Plugin][1] to facilitate our peer reviews. Jupiter is a great tool, but there were two major sticking points for us: 
 
 1. Some developers use IDEs other than Eclipse. 
 2. The turnover from setup -> moderation -> fixing review issues was way too long. On average it probably 
@@ -37,7 +37,9 @@ The second line will be our feature branch. The feature branch can have many oth
 have any documentation which would cause our build to become unstable.
 
 Now if we force developers to use the "Feature Branch" they can commit at any time without fear of 
-breaking anyone else.Once the developers are ready to merge to the trunk, we can have other developers 
+breaking anyone else. 
+
+Once the developers are ready to merge to the trunk, we can have other developers 
 review their code. This seems like a good idea. Developers can commit early and often without breaking 
 anyone. They can get their code reviewed by their peers. Everyone is happy.
 

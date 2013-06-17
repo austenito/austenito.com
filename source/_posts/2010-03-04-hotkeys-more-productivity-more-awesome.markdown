@@ -45,7 +45,7 @@ searching. When the file to edit is located, more time is spent searching for th
 editing is done, it's back to the mouse to move someplace else. Rinse and repeat. *Yawn*
 
 That isn't even the worst part. The worst part is the productivity of the entire team suffers. Less things get done because time is wasted. When other developers try to help, even more of their time 
-evaporates. Let's take a [pair programming][4]  example. It could be a formal session or an impromptu 
+evaporates. Let's take a [pair programming][4] example. It could be a formal session or an impromptu 
 'walk-by' to help someone out. The navigator stands their idling while the driver opens a class or finds 
 a method using the mouse. Now the productivity of two people has flatlined. If you're the driver, you're 
 job is to drive fast. To better explain why hotkeys are so important, I'll reference the age-old analogy 
@@ -56,10 +56,12 @@ right tool without moving or looking down. Commence carpenter [flow][5] time.
 
 Hotkeys help developers to get "in the zone". When you stop to find a class or method, there are more 
 opportunities to break your train of thought. Moving your hands off the keyboard and onto the mouse is 
-like switching contexts. [Switching tasks][6]  is bad.Are you ready to improve another skill in your 
-toolset?  Take a look at [Developers favorite Eclipse hotkeys][7]  or hit Ctrl-Shift-L in Eclipse to list 
+like switching contexts. [Switching tasks][6] is bad.Are you ready to improve another skill in your 
+toolset?  Take a look at [Developers favorite Eclipse hotkeys][7] or hit Ctrl-Shift-L in Eclipse to list 
 the available hot keys. If you use another IDE, take some time to learn about it's hotkeys, macros, and 
-shortcuts.Still don't believe me?  Think using the mouse is ok? [Steve Yegge says, "Non-touch-typists have to make sacrifices in order to sustain their productivity"][8] Death to the mouse!
+shortcuts.
+
+Still don't believe me?  Think using the mouse is ok? [Steve Yegge says, "Non-touch-typists have to make sacrifices in order to sustain their productivity"][8]. Death to the mouse!
 
 
   [1]: http://kagawaa.blogspot.com/

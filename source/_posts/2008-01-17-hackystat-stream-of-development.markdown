@@ -23,10 +23,9 @@ Now that I got past that hurdle, now I can start to think about getting my web a
 Of course that may be enough information for our little data stream, but it would be interesting to get 
 more context behind the collected data. Perhaps we could start add comments to the mini-feeds?  What if 
 we added some telemetry to the mini-feeds?  That would be cool to see how the mini-feeds turn into a large 
-information feed over time with a telemetry chart.What type of information should be 
-collected/filtered?Currently commit data from Subversion is collected once a day. I think it would be 
-important to see commit information in the mini-feed. Committing code is a good indicator of progress so 
-it would be nice to get more up-to-date information with respect to commits.
+information feed over time with a telemetry chart.
+
+What type of information should be collected/filtered? Currently commit data from Subversion is collected once a day. I think it would be important to see commit information in the mini-feed. Committing code is a good indicator of progress so it would be nice to get more up-to-date information with respect to commits.
 
 Another metric that we commit once a day is Issue data from JIRA. It would be good if we could collect 
 that data more often so that we could update the mini-feed with JIRA event information. I think that 

@@ -9,7 +9,7 @@ comments: false
 
 If you haven't noticed yet, I am very big on self-improvement. I am currently reading a book 
 called [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager][1] 
-by Michael Lopp, who also writes the blog [Rands in Repose][2] While reading this interesting and 
+by Michael Lopp, who also writes the blog [Rands in Repose][2]. While reading this interesting and 
 witty book, I came across a section called Skill vs. Will. It explains four states of developers: 
 
 - High skill, low will: Boredom is imminent-needs a change of scenery and responsibility stat. 

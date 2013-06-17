@@ -22,8 +22,9 @@ Philip says in the thread:
 
 I do believe that we still will need the Sensorbase because it does a great job of collecting data and 
 providing the basic API for retrieving data. There is nothing wrong with the way the SensorDataBrowser 
-retrieves data from the Sensorbase.Here is the layout of how the current architecture is layed out in my 
-mind:
+retrieves data from the Sensorbase. 
+
+Here is the layout of how the current architecture is layed out in my mind:
 
 [![][2] ][3] 
 
@@ -40,9 +41,9 @@ Having MySQL (or Derby in networked mode or any other database allowing multiple
 what clients can do with the current architecture rather than removing the need for the Sensorbase. We 
 would have added flexibility because we can have multiple ways to get data. In the picture above, we 
 could get the data from the current services, or from the new DPD service that we envision, or the 
-Hackystat view can directly access the database (although the view should use the services).In the case of 
-the new DPD service, the same API would be used, but the data retrieval and calculation implementation 
-will be changed. Since the same API will be used, the changes would be transparent to the clients.
+Hackystat view can directly access the database (although the view should use the services).
+
+In the case of the new DPD service, the same API would be used, but the data retrieval and calculation implementation will be changed. Since the same API will be used, the changes would be transparent to the clients.
 
 For example, clients would still be able to get DPD Commit data using a webservice call regardless of which DPD implementation is used:
 

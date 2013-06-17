@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-Over the past couple weeks, I was [getting interviewed by Aaron][1] This was the first time I have been interviewed outside of a job setting. After going through the process, I think that interviews are a good way of thinking about where you are in your career, what you need to improve on, and what you should strive for. The interview process is a lot like [revisiting your resume every six months][2] (which I still have not gotten around to doing). Here are some observations I had about getting interviewed:
+Over the past couple weeks, I was [getting interviewed by Aaron][1]. This was the first time I have been interviewed outside of a job setting. After going through the process, I think that interviews are a good way of thinking about where you are in your career, what you need to improve on, and what you should strive for. The interview process is a lot like [revisiting your resume every six months][2] (which I still have not gotten around to doing). Here are some observations I had about getting interviewed:
 
 1. Having extra time to gather your thoughts for an answer is a great exercise. Every question that Aaron asked required me to stop and think about an answer that expressed how I feel. It also made re-evaluate my reasoning behind my answers. I was happy to find that I couldn't find answers to some of his questions because I now have a concrete starting point to think about where I want to go. 
 

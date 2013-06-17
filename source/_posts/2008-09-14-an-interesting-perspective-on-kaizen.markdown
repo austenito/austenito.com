@@ -32,12 +32,12 @@ yourself into the same routine:
 > often, Andy would show up with fresh bruises. The Sisters kept at him - sometimes he was able to fight 
 > 'em off, sometimes not. And that's how it went for Andy - that was his routine. I do believe those first 
 > two years were the worst for him, and I also believe that if things had gone on that way, this place 
-> would have got the best of him" 
+> would have got the best of him
 > - Red, Shawshank Redemption
 
 I've only read through half of the book, but Think Better attempts to show you the thinking prison that we 
 are living in.  It's showing why the same routine that let's us feel comfortable will only lead us to 
-living on the [same curve][4] All very interesting material.  Thinking is good, routine is bad.  Then I 
+living on the [same curve][4]. All very interesting material.  Thinking is good, routine is bad.  Then I 
 came up to a chapter titled, "Kaizen vs. Tenkaizen".  As you probably know, especially fellow hacker [Ryan K][5], [Kaizen][6] is a Japanese philiosophy that focuses on continous improvment though all aspects of 
 life.  Tim Hurson argues that Kaizen is not always the best philiosophy to live by.  Continous improvement 
 is a great thing if you want to keep chugging along on the same level.  But Tenkaizen, which is a word he 
