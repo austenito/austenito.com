@@ -14,9 +14,9 @@ As a new grad, I tried a lot of things. I read books and blogs. Listened to podc
 
 There are two articles are forever part of my hacker livelihood. Having read these two articles in Philip Johnson's software engineering class helped me define who I am and to understand what I need to do to contribute.These two webpages. Yes I said webpages not blogs. It's crazy how old these articles are. Notice the manual revision history at the top? Crazy. Nonetheless, the content is the stuff of legends.
 
-[How to Become a Hacker][3] Defines who we are and how we get there. We are hackers. Be proud and proclaim it.
+[How to Become a Hacker][3] - Defines who we are and how we get there. We are hackers. Be proud and proclaim it.
 
-[How to Ask Smart Questions][4] Asking dumb questions makes you dead weight. Hackers hate dead weight. We want to spend time having fun chatting about the latest tech news, making paper airplanes, having Nerf gun fights, and if it's in the project plan, write some code. We don't have the time or patience to answer stupid questions. Remember the "There is no such thing as a stupid question" line doesn't apply to our world. There are stupid questions and it makes us angry.
+[How to Ask Smart Questions][4] - Asking dumb questions makes you dead weight. Hackers hate dead weight. We want to spend time having fun chatting about the latest tech news, making paper airplanes, having Nerf gun fights, and if it's in the project plan, write some code. We don't have the time or patience to answer stupid questions. Remember the "There is no such thing as a stupid question" line doesn't apply to our world. There are stupid questions and it makes us angry.
 
 With that said, we geeks get it. No one knows the answer to everything. It's not humanly possible. Robots, ninjas and zombies can do it, but not us lowly humans. Geeks genuinely want to help people. They want to explain a topic they're familiar with not only flex their intellectual guns, but to help you out.
 
