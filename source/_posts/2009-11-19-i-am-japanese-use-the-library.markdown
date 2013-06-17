@@ -3,7 +3,7 @@
 layout: post
 title: "I am Japanese. Use the Library."
 date: 2009-11-19
-comments: false
+comments: true
 ---
 
 

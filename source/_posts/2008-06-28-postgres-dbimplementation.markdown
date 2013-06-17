@@ -3,7 +3,7 @@
 layout: post
 title: "Postgres DbImplementation"
 date: 2008-06-28
-comments: false
+comments: true
 ---
 
 

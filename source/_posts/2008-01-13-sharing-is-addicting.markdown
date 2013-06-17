@@ -3,7 +3,7 @@
 layout: post
 title: "Sharing is addicting"
 date: 2008-01-13
-comments: false
+comments: true
 ---
 
 

@@ -3,7 +3,7 @@
 layout: post
 title: "Developer Responsibilities"
 date: 2010-03-27
-comments: false
+comments: true
 ---
 
 

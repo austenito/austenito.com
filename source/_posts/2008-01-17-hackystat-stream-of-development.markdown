@@ -3,7 +3,7 @@
 layout: post
 title: "Hackystat Stream of Development"
 date: 2008-01-17
-comments: false
+comments: true
 ---
 
 

@@ -3,7 +3,7 @@
 layout: post
 title: "Blogging, Open-Source Software, and Rockstars!"
 date: 2007-11-11
-comments: false
+comments: true
 ---
 
 

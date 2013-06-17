@@ -3,7 +3,7 @@
 layout: post
 title: "Checkstyle: It's Important"
 date: 2010-04-02
-comments: false
+comments: true
 ---
 
 

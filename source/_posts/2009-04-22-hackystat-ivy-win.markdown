@@ -3,7 +3,7 @@
 layout: post
 title: "Hackystat + Ivy = Win?"
 date: 2009-04-22
-comments: false
+comments: true
 ---
 
 

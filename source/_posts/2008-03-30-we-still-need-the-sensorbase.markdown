@@ -3,7 +3,7 @@
 layout: post
 title: "We still need the Sensorbase"
 date: 2008-03-30
-comments: false
+comments: true
 ---
 
 

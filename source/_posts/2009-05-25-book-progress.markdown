@@ -3,7 +3,7 @@
 layout: post
 title: "Book Progress"
 date: 2009-05-25
-comments: false
+comments: true
 ---
 
 

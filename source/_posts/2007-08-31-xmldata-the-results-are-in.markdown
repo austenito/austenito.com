@@ -3,7 +3,7 @@
 layout: post
 title: "XmlData: The results are in"
 date: 2007-08-31
-comments: false
+comments: true
 ---
 
 

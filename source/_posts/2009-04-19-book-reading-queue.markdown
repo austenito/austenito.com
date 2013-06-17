@@ -3,7 +3,7 @@
 layout: post
 title: "Book Reading Queue"
 date: 2009-04-19
-comments: false
+comments: true
 ---
 
 

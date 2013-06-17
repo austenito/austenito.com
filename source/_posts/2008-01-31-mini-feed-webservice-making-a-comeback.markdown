@@ -3,7 +3,7 @@
 layout: post
 title: "Mini-Feed Webservice Making a Comeback?"
 date: 2008-01-31
-comments: false
+comments: true
 ---
 
 

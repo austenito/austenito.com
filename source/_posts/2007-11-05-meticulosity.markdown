@@ -3,7 +3,7 @@
 layout: post
 title: "Meticulosity!"
 date: 2007-11-05
-comments: false
+comments: true
 ---
 
 

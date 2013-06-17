@@ -3,7 +3,7 @@
 layout: post
 title: "Skill vs. Will"
 date: 2007-10-28
-comments: false
+comments: true
 ---
 
 

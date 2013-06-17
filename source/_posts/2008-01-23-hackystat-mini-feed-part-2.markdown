@@ -3,7 +3,7 @@
 layout: post
 title: "Hackystat Mini-Feed Part 2"
 date: 2008-01-23
-comments: false
+comments: true
 ---
 
 

@@ -3,7 +3,7 @@
 layout: post
 title: "My Mockito Tech Talk. AKA: Conveying Information and Stuff"
 date: 2009-12-21
-comments: false
+comments: true
 ---
 
 

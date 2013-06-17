@@ -3,7 +3,7 @@
 layout: post
 title: "Reviewing Code Reviews"
 date: 2007-11-16
-comments: false
+comments: true
 ---
 
 

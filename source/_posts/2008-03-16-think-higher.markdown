@@ -3,7 +3,7 @@
 layout: post
 title: "Think Higher"
 date: 2008-03-16
-comments: false
+comments: true
 ---
 
 

@@ -3,7 +3,7 @@
 layout: post
 title: "Code Review Lessons Learned"
 date: 2008-03-18
-comments: false
+comments: true
 ---
 
 

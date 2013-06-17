@@ -3,7 +3,7 @@
 layout: post
 title: "Netbeans Innovators Grant"
 date: 2008-03-09
-comments: false
+comments: true
 ---
 
 

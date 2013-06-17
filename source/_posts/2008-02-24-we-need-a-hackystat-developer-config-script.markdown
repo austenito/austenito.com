@@ -3,7 +3,7 @@
 layout: post
 title: "We need a Hackystat developer config script"
 date: 2008-02-24
-comments: false
+comments: true
 ---
 
 

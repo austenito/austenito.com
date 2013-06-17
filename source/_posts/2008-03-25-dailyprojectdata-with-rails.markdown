@@ -3,7 +3,7 @@
 layout: post
 title: "DailyProjectData with Rails"
 date: 2008-03-25
-comments: false
+comments: true
 ---
 
 

@@ -3,7 +3,7 @@
 layout: post
 title: "An interesting perspective on Kaizen"
 date: 2008-09-14
-comments: false
+comments: true
 ---
 
 

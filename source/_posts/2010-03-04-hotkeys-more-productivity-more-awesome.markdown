@@ -3,7 +3,7 @@
 layout: post
 title: "Hotkeys. More productivity, More Awesome."
 date: 2010-03-04
-comments: false
+comments: true
 ---
 
 

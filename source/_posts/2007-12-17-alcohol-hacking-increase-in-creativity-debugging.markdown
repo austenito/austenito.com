@@ -3,7 +3,7 @@
 layout: post
 title: "Alcohol + Hacking != Increase in Creativity/Debugging"
 date: 2007-12-17
-comments: false
+comments: true
 ---
 
 

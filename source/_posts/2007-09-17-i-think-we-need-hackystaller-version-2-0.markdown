@@ -2,7 +2,7 @@
 layout: post
 title: "I think we need Hackystaller Version 2.0"
 date: 2007-09-17
-comments: false
+comments: true
 ---
 
 

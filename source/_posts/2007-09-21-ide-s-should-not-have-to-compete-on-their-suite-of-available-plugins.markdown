@@ -3,7 +3,7 @@
 layout: post
 title: "IDE's should not have to compete on their suite of available plugins"
 date: 2007-09-21
-comments: false
+comments: true
 ---
 
 
