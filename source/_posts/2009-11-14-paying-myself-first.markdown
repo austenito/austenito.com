@@ -24,7 +24,7 @@ So I changed my schedule:
 - 7:00 PM  Watch video blogs, listen to podcasts, take a break 
 - 10:30 PM Sleep
 
-Then one morning I found a blog that talked about[Paying Yourself First][1] What an excellent idea. I've always struggled with spending too much at the beginning of the month or when I get my paycheck. This is a great idea. Pay myself first. 
+Then one morning I found a blog that talked about [Paying Yourself First][1] What an excellent idea. I've always struggled with spending too much at the beginning of the month or when I get my paycheck. This is a great idea. Pay myself first. 
 
 Light Bulb.
 
@@ -38,7 +38,7 @@ So my new goal is to do some writing before I head to work. I don't have to writ
 
 I honestly rather do my side project hacking in the morning when I'm the freshest, but I don't have enough time between my gym session and when I need to leave for the job. Once the tasking at work calms down a bit, I should be able to resume my Rails hacking.
 
-A while ago I read an article by Sid Savara,[Paying Myself First With My Time][2]. I didn't buy into it then. How could I wake up early and start my day like that? Crazy Talk.
+A while ago I read an article by Sid Savara, [Paying Myself First With My Time][2]. I didn't buy into it then. How could I wake up early and start my day like that? Crazy Talk.
 
 _Best Idea Ever_.
 

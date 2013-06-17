@@ -8,7 +8,7 @@ comments: true
 
 Where do I begin? This question scared the crap out of me when I forayed into the job space straight out of the university. Everything was wild and unknown. I needed a tour guide yesterday. 
 
-As a new grad, I tried a lot of things. I read books and blogs. Listened to podcasts. Worked on open source projects like[Hackystat][1] and personal projects like an[Open Microblogging Plaform][2] and a ping pong score tracker. I tried a bunch of different approaches to improving my technical life.This blog's aim is to help you filter out the noise. I'll write what worked for me with the hope that it can bootstrap your improvement outside of college.
+As a new grad, I tried a lot of things. I read books and blogs. Listened to podcasts. Worked on open source projects like [Hackystat][1] and personal projects like an [Open Microblogging Plaform][2] and a ping pong score tracker. I tried a bunch of different approaches to improving my technical life.This blog's aim is to help you filter out the noise. I'll write what worked for me with the hope that it can bootstrap your improvement outside of college.
 
 # First things first
 
@@ -27,11 +27,11 @@ Respect is king amongst the Geeky.
 
 # Blogs
 
-Blogs are an excellent knowledge resource. StackOverflow has a thread on t[he best programming and development blogs][5] if you are interested, but here are the blogs that I've been following for quite some time:
+Blogs are an excellent knowledge resource. StackOverflow has a thread on [the best programming and development blogs][5] if you are interested, but here are the blogs that I've been following for quite some time:
 
 - [Basil Vandegriend: Professional Software Development][6]  
 - [Coding Horror][7]  
-- - [Creating Passionate Users][8] - It's a shame that this blog shutdown do someone stalking Kathy Sierra. It's still worth it to go through the blog archives. 
+- [Creating Passionate Users][8] - It's a shame that this blog shutdown do someone stalking Kathy Sierra. It's still worth it to go through the blog archives. 
 - [Joel on Software][9]  
 - [Rands In Repose][10]  
 - [reddit.com: Joel on Software -what's new online][11]  -Kinda like a hacker version of digg 

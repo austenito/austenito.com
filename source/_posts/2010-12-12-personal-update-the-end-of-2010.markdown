@@ -39,7 +39,7 @@ Some things that I've learned and along the way, but aren't resume material are:
 - Revisiting my software design and ideas the next day to double-check if it was actually a good idea 
 - Being more open to new ways of accomplishing tasks 
 - Read world news in the NY Times in addition to reading a lot of personal improvement, finance, and technology blogs. 
-- I've become an avid yelper at[aus.yelp.com][2] 
+- I've become an avid yelper at [aus.yelp.com][2] 
 
 So maybe I didn't do so bad this year. I may not have accomplished my action items I set at the beginning of the year, but I definitely didn't stagnate. I feel like I should have done more, but at least I made some progress.
 
@@ -53,7 +53,7 @@ This year I'm going to try something new. I'm going to create two lists, an "Act
 
 **Improve my online presence** - My online image needs to improve. I need to contribute to online technology forums, work on my linked in profile, and anything else that will increase my visibility.
 
-**Personal Finance** - My yearly struggle with sticking to budget has made the action item list once again. This time I'm going to try paying with cash for everything except for gas and my monthly bills that are automatically charged. It's sort of like the[Envelope System][3], but I'm not going to bother with sorting my cash into physical envelopes.
+**Personal Finance** - My yearly struggle with sticking to budget has made the action item list once again. This time I'm going to try paying with cash for everything except for gas and my monthly bills that are automatically charged. It's sort of like the [Envelope System][3], but I'm not going to bother with sorting my cash into physical envelopes.
 
 **Read More Books** - I really love reading. I just need to get off my butt and use the library more.
 
