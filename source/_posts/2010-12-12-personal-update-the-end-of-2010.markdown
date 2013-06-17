@@ -53,7 +53,7 @@ This year I'm going to try something new. &nbsp;I'm going to create two lists, a
 
 **Improve my online presence** - My online image needs to improve. &nbsp;I need to contribute to online technology forums, work on my linked in profile, and anything else that will increase my visibility.
 
-**Personal Finance** - My yearly struggle with sticking to budget has made the action item list once again. This time I'm going to try paying with cash for everything except for gas and my monthly bills that are automatically charged. &nbsp;It's sort of like the&nbsp;[Envelope System][3] , but I'm not going to bother with sorting my cash into physical envelopes.
+**Personal Finance** - My yearly struggle with sticking to budget has made the action item list once again. This time I'm going to try paying with cash for everything except for gas and my monthly bills that are automatically charged. &nbsp;It's sort of like the&nbsp;[Envelope System][3], but I'm not going to bother with sorting my cash into physical envelopes.
 
 **Read More Books** - I really love reading. &nbsp;I just need to get off my butt and use the library more.
 

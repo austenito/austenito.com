@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-Wow.  My last post was back in May.  It's been a while since I've made time for this blog thing, but it's been a good sabbatical. &nbsp;I'm reemerging on the interweb for the third time and hopefully here to stay. &nbsp;I want to stay committed and vigilant, as we all know how difficult it is to be an active blogger. &nbsp;My plan of posting twice a week turned into posting once a week, which then turned into not posting. &nbsp;Plan failure. &nbsp;But I have a new and improved plan!
+Wow. My last post was back in May. It's been a while since I've made time for this blog thing, but it's been a good sabbatical. &nbsp;I'm reemerging on the interweb for the third time and hopefully here to stay. &nbsp;I want to stay committed and vigilant, as we all know how difficult it is to be an active blogger. &nbsp;My plan of posting twice a week turned into posting once a week, which then turned into not posting. &nbsp;Plan failure. &nbsp;But I have a new and improved plan!
 
 One day I had a 6 AM gym session with a friend. &nbsp;It changed my life. &nbsp;My schedule used to look like this: 
 
@@ -24,7 +24,7 @@ So I changed my schedule:
 - 7:00 PM &nbsp; Watch video blogs, listen to podcasts, take a break 
 - 10:30 PM Sleep
 
-Then one morning I found a blog that talked about&nbsp;[Paying Yourself First][1] . &nbsp;What an excellent idea. &nbsp;I've always struggled with spending too much at the beginning of the month or when I get my paycheck. &nbsp;This is a great idea. &nbsp;Pay myself first. 
+Then one morning I found a blog that talked about&nbsp;[Paying Yourself First][1] &nbsp;What an excellent idea. &nbsp;I've always struggled with spending too much at the beginning of the month or when I get my paycheck. &nbsp;This is a great idea. &nbsp;Pay myself first. 
 
 Light Bulb.
 
@@ -38,7 +38,7 @@ So my new goal is to do some writing before I head to work. &nbsp;I don't have t
 
 I honestly rather do my side project hacking in the morning when I'm the freshest, but I don't have enough time between my gym session and when I need to leave for the job. &nbsp;Once the tasking at work calms down a bit, I should be able to resume my Rails hacking.
 
-A while ago I read an article by Sid Savara,&nbsp;[Paying Myself First With My Time][2] . &nbsp;I didn't buy into it then. &nbsp;How could I wake up early and start my day like that? &nbsp;Crazy Talk.
+A while ago I read an article by Sid Savara,&nbsp;[Paying Myself First With My Time][2]. I didn't buy into it then. &nbsp;How could I wake up early and start my day like that? &nbsp;Crazy Talk.
 
 _Best Idea Ever_.
 

@@ -9,9 +9,22 @@ comments: false
 
 
 I've been slacking on the blogging and the reading so to get motivated I'm posting a book queue.
-   1. [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)][1]    2. [Outliers: The Story of Success][2]  (Finish reading it.)   3. [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series)][3]    4. [House of Leaves][4]    5. [Mentoring: The Tao of Giving and Receiving Wisdom][5]    6. [The Bro Code][6] 
-My goal is to get back to reading a book a month. I've read the GoF book already, but it's time to refresh my design patterns. I read it over 3 years ago, so I will probably have a new understanding of when/where to use certain patterns.
-I've also changed my reading to include fun and non-technical books. Hopefully that will keep me reading. I've noticed that it's a drag to read technical books all the time. The books are interesting, but my mind needs something new every now and then.
+
+1. [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)][1]    
+2. [Outliers: The Story of Success][2]  (Finish reading it.)   
+3. [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series)][3]    
+4. [House of Leaves][4] 
+5. [Mentoring: The Tao of Giving and Receiving Wisdom][5]    
+6. [The Bro Code][6] 
+
+My goal is to get back to reading a book a month. I've read the GoF book already, but it's time to refresh 
+my design patterns. I read it over 3 years ago, so I will probably have a new understanding of when/where 
+to use certain patterns.
+
+I've also changed my reading to include fun and non-technical books. Hopefully that will keep me reading. 
+I've noticed that it's a drag to read technical books all the time. The books are interesting, but my mind 
+needs something new every now and then.
+
 
 
 

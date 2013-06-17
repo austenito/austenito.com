@@ -37,7 +37,7 @@ Blogs are an excellent knowledge resource. &nbsp;StackOverflow has a thread on t
 - [reddit.com: Joel on Software -what's new online][11] &nbsp; -Kinda like a hacker version of digg 
 - [Steve Yegge's Blog Rants][12]  
 - [Hacker News][13] &nbsp;- Up to date tech news 
-- [Kohsuke Kawaguchi's Blog][14] &nbsp;- The lead of&nbsp;[Hudson][15] . &nbsp;This guy does some crazy stuff. - [Slashdot][16] &nbsp;- Geek news for geeky people like you and me - [xkcd.com][17] &nbsp;- This isn't a blog, but every hacker should read xkcd. &nbsp;Seriously.
+- [Kohsuke Kawaguchi's Blog][14] &nbsp;- The lead of&nbsp;[Hudson][15] &nbsp;This guy does some crazy stuff. - [Slashdot][16] &nbsp;- Geek news for geeky people like you and me - [xkcd.com][17] &nbsp;- This isn't a blog, but every hacker should read xkcd. &nbsp;Seriously.
                                                                                                                                                                                                           
 I also follow the blogs of people I've met at the university or through work. &nbsp;They are all interesting as well. 
 - [Engineering Log][18] &nbsp;- The maintainer of the&nbsp;[jupiter-eclipse-plugin][19]  
@@ -51,7 +51,7 @@ I also follow the blogs of people I've met at the university or through work. &n
 
 As a hacker you want to get into the nitty gritty. &nbsp;You want to jump into that source and show it who's boss. &nbsp;You're going to write millions of lines of unit tested, bug free, elegant code. &nbsp;But wait.&nbsp;
 
-Do you enjoy reading other people's code? &nbsp;No? &nbsp;That's too bad because reading code is about 90% of your hacker life. &nbsp;Maybe more. &nbsp;There's API's, javadocs, code examples, and source digging among the countless other ways to read lines of code. &nbsp;Rockstar programmers that&nbsp;[perform 10x better than others][24] &nbsp;rock at reading code. &nbsp;For the rockstars, reading code should be like reading a book. &nbsp;It needs to flow through your mind and paint a picture of what's happening. &nbsp;It's said that you need to practice&nbsp;[10,000 hours to master something][25] . &nbsp;I think you'll need even more to master code reading because everyone writes their code differently and most of it is bad. &nbsp;You'll need to be able to quickly pick up favored patterns and apply it to your overall understanding of the code structure and usage.
+Do you enjoy reading other people's code? &nbsp;No? &nbsp;That's too bad because reading code is about 90% of your hacker life. &nbsp;Maybe more. &nbsp;There's API's, javadocs, code examples, and source digging among the countless other ways to read lines of code. &nbsp;Rockstar programmers that&nbsp;[perform 10x better than others][24] &nbsp;rock at reading code. &nbsp;For the rockstars, reading code should be like reading a book. &nbsp;It needs to flow through your mind and paint a picture of what's happening. &nbsp;It's said that you need to practice&nbsp;[10,000 hours to master something][25] &nbsp;I think you'll need even more to master code reading because everyone writes their code differently and most of it is bad. &nbsp;You'll need to be able to quickly pick up favored patterns and apply it to your overall understanding of the code structure and usage.
 
 It might seem obvious, but you should get out there and read code. &nbsp;It's actually really easy:
 
@@ -65,13 +65,13 @@ Voila. &nbsp;You are on your way to code reading mastery. &nbsp;You could even t
 
 I don't need to write much here. &nbsp;Practice, practice, practice. &nbsp;I would suggest immediately starting with a new language because it promotes new ways of thinking. &nbsp;You'll realize the importance of learning new languages once you apply a language design pattern from one language to another.
 
-&nbsp;I started with&nbsp;[Ruby on Rails][26] &nbsp;because I was interested in web frameworks. &nbsp;I've made a&nbsp;[resolution][27] &nbsp;to work with Python this year. &nbsp;Pick something you find interesting and do some&nbsp;[Code Kata][28] &nbsp;or create yourself a side project.  
+&nbsp;I started with&nbsp;[Ruby on Rails][26] &nbsp;because I was interested in web frameworks. &nbsp;I've made a&nbsp;[resolution][27] &nbsp;to work with Python this year. &nbsp;Pick something you find interesting and do some&nbsp;[Code Kata][28] &nbsp;or create yourself a side project. 
 
 # Blogging
 
 Blogging is an excellent tool. &nbsp;I know that it's not for everyone, but I find that it continually improves my thinking and writing skills. &nbsp;I brainstorm during my commute to work, the walk to Starbucks, the lonely period in the bathroom. &nbsp;I think about interesting blog topics and if my readers (all 5 of them) would get it. &nbsp;Blogging puts your thoughts into written form. &nbsp;Sometimes it's hard to express what you mean until you try to explain it to someone else.
 
-Another great thing about blogging is that it can help you with your&nbsp;[Periodic Resume Updates][29] . &nbsp;You won't be able to remember what you've done over the past year, but having an activity log will help figure out what you should add to your resume or tell you that you aren't investing in yourself enough. 
+Another great thing about blogging is that it can help you with your&nbsp;[Periodic Resume Updates][29] &nbsp;You won't be able to remember what you've done over the past year, but having an activity log will help figure out what you should add to your resume or tell you that you aren't investing in yourself enough. 
 
 # Hang out with Hackers
 
@@ -109,33 +109,3 @@ The last point I have to make isn't really a skill, but rather something to help
   [28]: http://codekata.pragprog.com/
   [29]: http://austenito.blogspot.com/2008/10/periodic-resume-updates.html
   [30]: http://en.wikipedia.org/wiki/Pair_programming
-  [31]: http://woman.twroom999.info
-  [32]: http://livesex.twgirlmiss.info
-  [33]: http://ilove.twroommm.info
-  [34]: http://www.twroomshow.info
-  [35]: http://talk2.twchat888.info
-  [36]: http://show2.twroom104.info
-  [37]: http://gogo.twroomnice.info
-  [38]: http://kk123.twroomnice.info
-  [39]: http://showlive2.twroommiss.info
-  [40]: http://www.twroommeme.info
-  [41]: http://bb.twroomnice.info
-  [42]: http://show2.twgirl1007.info
-  [43]: http://kiss168.twtalkchannel.info
-  [44]: http://sex3.twgirl919.info
-  [45]: http://shop1.twroom104.info
-  [46]: http://woman.twtalkbaby.info
-  [47]: http://uthome3.twchat888.info
-  [48]: http://girl.channel0401.info
-  [49]: http://sex520.twchat999.info
-  [50]: http://utshow.channel1007.info
-  [51]: http://show2.twgirl919.info
-  [52]: http://utshow.twroomsex.info
-  [53]: http://shop.twchat66.info
-  [54]: http://sexdiy.twchatmeme.info
-  [55]: http://utshow1.twchatlove.info
-  [56]: http://nice2.twgirl919.info
-  [57]: http://aio.twtalkchannel.info
-  [58]: http://livesex.twroomshow.info
-  [59]: http://tw18.twgirladult.info
-  [60]: http://love104.twroommovie.info

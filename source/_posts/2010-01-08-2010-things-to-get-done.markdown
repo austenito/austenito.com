@@ -9,7 +9,7 @@ comments: true
 
 In the spirit of new years I decided to do what everyone else is doing, create
 a list of things I want to accomplish this year, i.e., my New Year's Resolution.
-I remember I created a [List of Things I Want to Do][1]  way back in 2008. Let's see how I matched up 2 years later:
+I remember I created a [List of Things I Want to Do][1] way back in 2008. Let's see how I matched up 2 years later:
 
 * Improve my writing skills
 * Ruby/Apache Wicket and Hackystat
@@ -18,7 +18,7 @@ I remember I created a [List of Things I Want to Do][1]  way back in 2008. Let's
 * Give a speech to a group about something technology
 
 The things I didn't complete are in red. How sad. Two years later I still haven't
-tried out Python.  think I have improved my writing skills a bit, but I had a
+tried out Python. think I have improved my writing skills a bit, but I had a
 blog hiatus in 2009. Hopefully we will miss that episode this year.
 I tried implementing a Hackystat UI using Ruby on Rails in 2008.
 Other than mentoring a student for Google Summer of Code 2009, I haven't done
@@ -55,7 +55,7 @@ to be conscious of where my money is going. Credit cards are evil and they own m
 * Save 10% of income
 * Paying myself first will allow me to accomplish the next two goals. There are
 things I want to save up for in the future. I can't purchase them unless I start
-saving now.  think 10% is a reasonable number.
+saving now. think 10% is a reasonable number.
 * Save 5% of income for life's experiences
 * For the past three years I've never saved money to spend on vacations or
 things I'm passionate about. I was in the financial bias of saving as much as
@@ -71,7 +71,7 @@ save and spend with no remorse. I'm going to live this time around.
 # Personal Things to Get Done
 
 * Continue to pay myself first
-* I recently wrote a blog[paying myself first][4] . I want to continue to go to
+* I recently wrote a blog[paying myself first][4] I want to continue to go to
 the gym in the morning.
 * Read one library book a month
 * I've been using the library for about a 1.5 months now and I'm going to say
