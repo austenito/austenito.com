@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Checkstyle:  It's Important"
+title: "Checkstyle: It's Important"
 date: 2010-04-02
 comments: false
 ---
@@ -25,21 +25,21 @@ agreed upon.
 Developers hate writing documentation. If you love writing code comments then you are a sick, sick 
 person and you probably already love Checkstyle. Feel free to stop reading. Now for the rest of us, we 
 often have a personal two-way connection to our source. We know what it does. At least we know what it 
-does right now. What about two weeks from now?  One month?  One year?
+does right now. What about two weeks from now? One month? One year?
 
 Integrating Checkstyle into your development process forces you to stop and think. It makes you question 
 what your code does. It can help validate your design. The intricacies of your code exist in your head 
-at this very moment. Why not write it down?  Checkstyle makes it so.
+at this very moment. Why not write it down? Checkstyle makes it so.
 
 The argument against forcing developers to write documentation is that they will write useless comments. This isn't a fault of Checkstyle, it's a fault of the developer. Why aren't they writing good 
-documentation?  Why aren't other developers getting on the bad documenter's case?  Is anyone else 
-reviewing their code to make sure they aren't being sloppy?  Checkstyle doesn't do any of that. Your 
+documentation? Why aren't other developers getting on the bad documenter's case? Is anyone else 
+reviewing their code to make sure they aren't being sloppy? Checkstyle doesn't do any of that. Your 
 team does.
 
 Checkstyle isn't for you, it's for everyone else. I believe we all can agree that clear, concise, 
-and well documented code helps other developers. There is  a feeling of pure joy when you use a well-documented third party library. Since all code you write will be used by other developers, shouldn't you 
+and well documented code helps other developers. There is a feeling of pure joy when you use a well-documented third party library. Since all code you write will be used by other developers, shouldn't you 
 impose the same documentation standards on yourself that you wish everyone else would follow? What about 
-the argument of "Why should I care about checkstyle?  I know how to document". Even if it were true that 
+the argument of "Why should I care about checkstyle? I know how to document". Even if it were true that 
 you always wrote great documentation, 99.9% of us aren't like you. We need help verifying that we are 
 indeed following code style standards. Checkstyle keeps us honest. After all, we are developers and 
 developers are lazy. Sometimes we need a little prodding to keep ourselves disciplined.

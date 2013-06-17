@@ -16,7 +16,7 @@ The good thing is that tonight I came across a nifty Rails charting plugin calle
 [![][5] ][6] 
 
 The charts on the left are embedded flash charts that I created using data from the CodeIssue and Unit 
-Test DPDs. The charts are very responsive and have very nice eye candy. Hovering  over a section in the 
+Test DPDs. The charts are very responsive and have very nice eye candy. Hovering over a section in the 
 chart will display extra data in a tool tip. If you take a look at the pie chart, I hovered over the pink 
 section to display a tooltip saying, '94 Findbugs Issues'. Each section can also have embedded links to 
 forward you to another page. In my case I would want to send the user to another page with a drill down 
@@ -24,7 +24,7 @@ of the type of data they selected.
 
 These are the two charts I played around with tonight. I was thinking that it would be cool to display DevEvent data over the course of a day or a chart with Commit's and Issue information.
 
-The current use case  of the viewer is to create a information "dashboard" that can be used in 10- minute 
+The current use case of the viewer is to create a information "dashboard" that can be used in 10- minute 
 stand up meetings. The goal is to have the people in the meeting quickly interpret the data to drive 
 discussions. In version 7, Daily Project Data information was displayed in a table. There was a lot of 
 text and it was quite hard to get a feel for things without diving deeper into the data. I'm hoping the 

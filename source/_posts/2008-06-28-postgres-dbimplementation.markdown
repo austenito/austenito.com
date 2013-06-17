@@ -19,7 +19,7 @@ If the libraries aren't bundled you have the flexibility to swap the jars out. H
 The second reason is much worse. 
 
 If libraries are bundled together and they use different versions of the same dependent library, which 
-version is loaded onto the classpath?  Who knows. If all depenent libraries are not bundled in jar files, 
+version is loaded onto the classpath? Who knows. If all depenent libraries are not bundled in jar files, 
 you can't have the class loader clobbering problem because there will only be one version of each library.
 In the end we decided that the binaries of the distribution should consist of 2 files. The first is the 
 sensorbase.jar and the second is the sensorbase-postgres.jar. The sensorbase-postgres.jar file contains a 

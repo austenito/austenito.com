@@ -19,9 +19,9 @@ defended issues I found. I learned that it is very important not to think about 
 on the offensive when pointing out issues and playing "tough defense" when explaining why issue x should 
 be solve with that new awesome design pattern you found in [Head First Design Patterns][3]. You must be 
 respectful of everyone's code. More often than not, they spent 100x longer deciding whether to make a 
-certain decision.  If something is weird, point it out, and ask for their input in a respectful manner. 
+certain decision. If something is weird, point it out, and ask for their input in a respectful manner. 
 2. Give people the benefit of the doubt - People are smart. Most times they are smarter than you. (At 
-least it seems that way. Maybe I'm just slow...)   It's silly to think that you can read someone's code 
+least it seems that way. Maybe I'm just slow...)  It's silly to think that you can read someone's code 
 for an hour and immediately know the tradeoffs of the current design. People know what they are doing and 
 usually do things with purpose. This leads directly to my next point. 
 3. Stop, Shut up, and Listen - Listen carefully to what people have to say. Don't dismiss the 

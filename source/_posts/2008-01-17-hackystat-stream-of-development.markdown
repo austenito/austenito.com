@@ -21,8 +21,8 @@ provide me with some interesting information.
 Now that I got past that hurdle, now I can start to think about getting my web application (written in Rails yay!) to parse and display the right information. There are still a bit of things to think about like what type of information do we display? I was talking to Aaron online tonight and he came up with the idea of just displaying the amount of events that have taken place. For example, one mini-stream could say, '3 hours total dev time,  50 unit test invocations with 4 failing tests, and 200 builds in the last 2 hours'.
 
 Of course that may be enough information for our little data stream, but it would be interesting to get 
-more context behind the collected data. Perhaps we could start add comments to the mini-feeds?  What if 
-we added some telemetry to the mini-feeds?  That would be cool to see how the mini-feeds turn into a large 
+more context behind the collected data. Perhaps we could start add comments to the mini-feeds? What if 
+we added some telemetry to the mini-feeds? That would be cool to see how the mini-feeds turn into a large 
 information feed over time with a telemetry chart.
 
 What type of information should be collected/filtered? Currently commit data from Subversion is collected once a day. I think it would be important to see commit information in the mini-feed. Committing code is a good indicator of progress so it would be nice to get more up-to-date information with respect to commits.
@@ -35,7 +35,7 @@ FeaturesDrillDown information would be cool because if you find an interesting m
 on the event link and see what types of unit test failures are happening or what classes were commited.An 
 RSS feed with the mini-feed information would fit nicely into my Google Desktop app.
 
-Commenting on feeds would also be cool. Mini-feed comparisons at the grain size of a day?  Is your mini-feed activity the same during the week the same?Imply information from the data in the mini-feed. For example, if Aaron and I commit changes to the same module or are running similar unit tests, can we say that we are working together?  'Aaron and Austen have been working on module mini-feed for 2 hours'. 
+Commenting on feeds would also be cool. Mini-feed comparisons at the grain size of a day? Is your mini-feed activity the same during the week the same?Imply information from the data in the mini-feed. For example, if Aaron and I commit changes to the same module or are running similar unit tests, can we say that we are working together?  'Aaron and Austen have been working on module mini-feed for 2 hours'. 
 
 Totally awesome.So fun!
 

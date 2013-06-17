@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-**[Meticulous][1]:  marked by extreme or excessive care in the consideration or treatment of details.**
+**[Meticulous][1]: marked by extreme or excessive care in the consideration or treatment of details.**
 
 I have found out this week that one of my new goals is to be meticulous. This week alone I have made 
 three stupid mistakes that could have been avoided if I pay a little more attention to detail. Here are 

@@ -66,7 +66,7 @@ Among other things I did, here's the random breakdown:
 * Rode a train for the first time
 * Sky diving
 * Moved into a terrible smelling apartment, then upgraded to an great place
-  in walking distance to work.
+ in walking distance to work.
 * Went to a ton of baseball games including games 4 and 5 of the NLDS where I 
 witnessed a walk-off home run and a crushing collapse.
 * Tubing in a river!

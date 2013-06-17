@@ -36,7 +36,7 @@ index has 5000 entries, I will have to make 5000 separate requests to get the en
 Thats just too long. I think the overhead of making all those requests is causing the slowdown. Thats my 
 theory anyways...The solution?
 
-So I was thinking "How come the DailyProjectData services don't have that problem too?"  I believe the 
+So I was thinking "How come the DailyProjectData services don't have that problem too?" I believe the 
 reason is that there is only one webservice call binding each entries' data to Java objects. So in order to remove the large amount of requests I will have to create a Mini-Feed service that can talk directly to 
-the SensorBaseClient.  I am wondering if caching will get rid of this problem. If so, I probably should 
+the SensorBaseClient. I am wondering if caching will get rid of this problem. If so, I probably should 
 hold off on writing a Mini-Feed service.

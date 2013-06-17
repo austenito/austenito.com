@@ -19,17 +19,17 @@ job. This rules.
 - Low will, low skill: Boy, did you screw up. It takes a fairly concerted effort to ignore the needs of 
 your employee so long that (a) they no longer have the skills necessary to do their job, and (b) they 
 don't want to do it. Roll those sleeves up, pal. You've got work to do. 
-- High skill, high will:  Great job, ummmm, guess what?  No one stays here long.
+- High skill, high will: Great job, ummmm, guess what? No one stays here long.
 
 There are several things that came to mind when I read this section. 
 
-1. Why does management screw up if you have low will or low skill?  Isn't it the responsibility of the 
+1. Why does management screw up if you have low will or low skill? Isn't it the responsibility of the 
 developer to ensure that they keep up on the latest development styles, techniques, and processes?  
 2. Having a great motivation to learn is a great state of mind to have. You may not be the best at what 
-you do or know everything, but being motivated gets you half way there.  Improving everyday can only help 
+you do or know everything, but being motivated gets you half way there. Improving everyday can only help 
 your chances at becoming awesome. 
 3. He seems to side-step the problem of having low will by saying that by increasing a person's skill, they will also see an increase in their will. Somehow I don't really buy that. If you already have low 
-will, what will make you want to increase your skills?  And the larger problem is that if you have low 
+will, what will make you want to increase your skills? And the larger problem is that if you have low 
 will, what is going to stop you from going back to that state once someone isn't prodding you into improving?
 
 On a side note: [Aaron][3] starred a blog from Coding Horror about [achieving blogging success][4].

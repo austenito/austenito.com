@@ -36,9 +36,9 @@ was, "Config it, then let's document!"  (There wasn't really a motto for Version
 make one up for entertainment value). In Hackystat 7, you had to go through so much application 
 and dependency configuration via properties files. That was a huge headache if you start 
 developing on another machine. In Hackystat 8, things are already starting to look very different. Gone
-are the days of endless configuration!  We now have small little modules, each with their own 
-library that can be used by other modules. Want to start the server up to receive data?  Configuration
-files?  No way!  Hit the command-line (java -jar sensorbase.jar). I'm liking it so far.  Small 
+are the days of endless configuration! We now have small little modules, each with their own 
+library that can be used by other modules. Want to start the server up to receive data? Configuration
+files? No way! Hit the command-line (java -jar sensorbase.jar). I'm liking it so far. Small 
 little pieces, small little hacks, large contributions to the Hackystat project.
 
 ## Sweet New Architecture

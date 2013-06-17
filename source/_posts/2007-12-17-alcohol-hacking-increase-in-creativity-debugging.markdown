@@ -16,7 +16,7 @@ booze and start hacking. All ready to be ultra productive, I had some of my drin
 Here is what I thought would happen:
 
 `
-"Hey I see what this code is doing!  Let's try something new. Why not. What else do I have to lose. Code code code hack hack hack. This is great!  I should drink and code at work!"
+"Hey I see what this code is doing! Let's try something new. Why not. What else do I have to lose. Code code code hack hack hack. This is great! I should drink and code at work!"
 `
 
 Here is what really happened:

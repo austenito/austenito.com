@@ -29,7 +29,7 @@ was unmarshalled. With the increase in heap, the sensor had no problems.
 [![][4] ][5] 
 
 For fun, I ran one last invocation of the sensor with out the manual System.gc() calls.  
-It turns out that the sensor allocates around 26  more MB to send the same amount of data. It 
+It turns out that the sensor allocates around 26 more MB to send the same amount of data. It 
 is interesting to note that at the end of the sensor process, the data is very small, but the sensor 
 still uses the same amount of allocated memory. 
 
@@ -42,7 +42,7 @@ be a good idea to tell users to increase their heap to a large number. If we com
 a user has an abnormally large file, we may need to go the route that Philip suggested of writing a 
 custom SAX parser. That will remove the need to load the entire document into memory. 
 
-The sensor is almost functional. I noticed that version 7 data includes [pMap attributes][8], which I probably will need to separate. After thats completed, I can write some documentation and release!  Hopefully I can send out a review request at the next milestone.
+The sensor is almost functional. I noticed that version 7 data includes [pMap attributes][8], which I probably will need to separate. After thats completed, I can write some documentation and release! Hopefully I can send out a review request at the next milestone.
 
 
   [1]: http://code.google.com/p/hackystat-sensor-xmldata/

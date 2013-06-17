@@ -8,7 +8,7 @@ comments: false
 
 
 Today as I was reading some blogs on my mobile and sharing stuff, I felt that twinge. That twinge that 
-subconsciously tells me, "Hey why are you sharing that?  Everyone knows that. People are going to see 
+subconsciously tells me, "Hey why are you sharing that? Everyone knows that. People are going to see 
 that you shared that and be like WTF." That feeling that overcame me was totally awesome. It's that 
 feeling that makes people actually care about the quality of their software. People don't want to let 
 their team down. Similarly, I don't want to let you all down by sharing crappy articles. After all, I 
@@ -24,7 +24,7 @@ You might just find something that interests you. Sharing has totally infected m
 Google Reader I try to select interesting articles that might spark some interest. Sharing items is like 
 an implicit way of blogging. They look at the [items I share on Google Reader][2] and wonder if any of 
 the links are worth clicking. Now I have to make sure that I read blogs often, constantly sharing new 
-things or else people might stop reading my shared items. What will they think of me?  Sharing is 
+things or else people might stop reading my shared items. What will they think of me? Sharing is 
 important, but so is the stuff that is being shared.
 
 

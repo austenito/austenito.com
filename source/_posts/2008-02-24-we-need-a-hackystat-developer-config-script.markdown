@@ -42,7 +42,7 @@ And more configuration...
 
 Phew. That was quite a bit of setup just to build one jar file.
 
-Another thing that bugs me was I downloaded the wrong version of Apache Commons Logging. I  downloaded 
+Another thing that bugs me was I downloaded the wrong version of Apache Commons Logging. I downloaded 
 the latest release, which happened to be v1.1.1 instead of v1.1. Since I have done the setup before I 
 automatically knew what was wrong, but new developers might not get it right away. I'm thinking that the 
 error messages should specify what jar file the build wants. What we need is to have a little shell script 

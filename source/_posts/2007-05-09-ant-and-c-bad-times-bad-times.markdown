@@ -21,7 +21,7 @@ but no work around.
                        
 
 2. The library is buggy. There is a bug where ant will hang when nesting 'syslibset' and 'libset'  
-tags within the cc, compiler, and linker tasks. The work around is to have nested  calls within 
+tags within the cc, compiler, and linker tasks. The work around is to have nested calls within 
 your cc task. You get no love if you have a lot of libraries to link.
 
 A coworker suggested that I look into [Nant][3] as an alternative to using ant. I'm not sure if 

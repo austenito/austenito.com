@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Counter-Blog:  Path to Awesomeness"
+title: "Counter-Blog: Path to Awesomeness"
 date: 2008-10-16
 comments: true
 ---

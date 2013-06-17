@@ -8,7 +8,7 @@ comments: false
 
 
 This weekend I did a bit of ruby hacking to parse out the sensor data information from the Sensorbase 
-webservice calls and found it to be relatively easy. Ruby is so nice ;)  As I was hacking I had this 
+webservice calls and found it to be relatively easy. Ruby is so nice ;) As I was hacking I had this 
 feeling that I was placing the logic to parse the data in the wrong place. For my quick prototype, 
 bunching all of the logic together was fine. But it turns out I need a higher level of abstraction in the 
 form of a new service. [Philip explains in more detail][1] to Pavel and Dan Port in his email about 

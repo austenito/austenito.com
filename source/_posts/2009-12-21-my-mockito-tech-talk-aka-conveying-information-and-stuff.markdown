@@ -15,7 +15,7 @@ figured that it would be imperative to give a talk this month before we ramp up 
 I suck at public speaking. 
 
 That process of reading your audience. Conveying information. All of that 
-stuff. Who needs it right?  Hook me up with my IDE, give me a fridge full of diet mountain dew and get 
+stuff. Who needs it right? Hook me up with my IDE, give me a fridge full of diet mountain dew and get 
 out of my way. I got things to do. If only the world worked that way.
 
 Since I'm on this whole, let's work hard and do awesome kick, I've been looking at public speaking as an area to focus on. After all, if I want to be able to lead software teams, I need to be able to be someone who is able to be informative and also know what the hell they are talking about. I've done the whole Toastmasters thing before. I like the concept, but I didn't like the structure and organization of the particular group I was a part of. So without any outside help, I got to searching on how I could improve my slides and effectively present a technical presentation to my peers.
@@ -27,7 +27,7 @@ I found this interesting PDF using the Google: [Presentation Tips - How to Give 
 I got a sense of confusion from the audience at this point. I tried to use the List examples from the 
 Mockito documentation, but that turned out to be a bit too high-level for a presentation. Most of the 
 developers didn't "get it". I finished off my presentation with a "real-world" Mockito example where I 
-tested the behavior of a action class populating a stack. The action class implemented ActionListener  and would operate on Stack's object interface. I got good responses from this part of the presentation. 
+tested the behavior of a action class populating a stack. The action class implemented ActionListener and would operate on Stack's object interface. I got good responses from this part of the presentation. 
 
 I think that developers had that "ah hah" moment when they could finally see Mockito in action from an IDE
 . Overall I think the talk went well. It was very informal and the I was getting a good vibe. The best 

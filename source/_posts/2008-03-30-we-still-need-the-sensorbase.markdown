@@ -15,7 +15,7 @@ work. We all have to have courage to express new ideas.
 Philip says in the thread:
 
 > It would be extremely easy, maybe one day's work, to extend your RoR application to support just the
-> subset of the SensorBase REST API for PUTting of sensor data. Once that's  done, you have no need 
+> subset of the SensorBase REST API for PUTting of sensor data. Once that's done, you have no need 
 > of the sensorbase at all; you can install Hackystat sensors, point them at your RoR app, and have your 
 > own custom two-tier, database-driven, client-server web application that is compatible with Hackystat 
 > sensor data. You now have total control and can do processing whereever you see fit.
@@ -37,7 +37,7 @@ Here is the architectural layout with MySQL behind the Sensorbase instead of Der
 
 [![][4] ][5] 
 
-Having MySQL (or Derby in networked mode or any other database allowing multiple connections)  adds to 
+Having MySQL (or Derby in networked mode or any other database allowing multiple connections) adds to 
 what clients can do with the current architecture rather than removing the need for the Sensorbase. We 
 would have added flexibility because we can have multiple ways to get data. In the picture above, we 
 could get the data from the current services, or from the new DPD service that we envision, or the 

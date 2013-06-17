@@ -15,7 +15,7 @@ Sadly, not very many students had an answer. [Joel Lazaro][2], a student in Dr. 
 class, is on the right track and posted a useful link on [Eclipse shortcuts][3].
 
 Being a productive developer means you trim the number of steps do your hacker tasks. Why is this 
-important?  Let's take a look at an extreme example, a daily task in Eclipse with and without hotkeys: 
+important? Let's take a look at an extreme example, a daily task in Eclipse with and without hotkeys: 
 
 A simple task with hotkeys 
 
@@ -51,17 +51,17 @@ a method using the mouse. Now the productivity of two people has flatlined. If y
 job is to drive fast. To better explain why hotkeys are so important, I'll reference the age-old analogy 
 of a carpenter and his tools. Think of a carpenter's toolbelt. Pure genius right? It's inventor thought, 
 "I'll wrap a piece of leather around carpenter's waist so they can grab their tools quickly rather than 
-waste their time going back to their tool box."  Productivity went through the roof. Carpenters pick the 
+waste their time going back to their tool box." Productivity went through the roof. Carpenters pick the 
 right tool without moving or looking down. Commence carpenter [flow][5] time.
 
 Hotkeys help developers to get "in the zone". When you stop to find a class or method, there are more 
 opportunities to break your train of thought. Moving your hands off the keyboard and onto the mouse is 
 like switching contexts. [Switching tasks][6] is bad.Are you ready to improve another skill in your 
-toolset?  Take a look at [Developers favorite Eclipse hotkeys][7] or hit Ctrl-Shift-L in Eclipse to list 
+toolset? Take a look at [Developers favorite Eclipse hotkeys][7] or hit Ctrl-Shift-L in Eclipse to list 
 the available hot keys. If you use another IDE, take some time to learn about it's hotkeys, macros, and 
 shortcuts.
 
-Still don't believe me?  Think using the mouse is ok? [Steve Yegge says, "Non-touch-typists have to make sacrifices in order to sustain their productivity"][8]. Death to the mouse!
+Still don't believe me? Think using the mouse is ok? [Steve Yegge says, "Non-touch-typists have to make sacrifices in order to sustain their productivity"][8]. Death to the mouse!
 
 
   [1]: http://kagawaa.blogspot.com/

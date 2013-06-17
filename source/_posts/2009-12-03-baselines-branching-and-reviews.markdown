@@ -27,7 +27,7 @@ improve the plugin. That talk is for another blog on another day.
 
 There were [broken windows][3] everywhere and no clean up crew to whip it into shape. Something needed to change and fast. We had no time in the FLRN codebase, but we have some time (a little) in the new release to get moving towards the proverbial Awesome Path.
 
-To get on track we have integrated [Crucible][4], a code review tool from the great people at [Atlassian][5], into our development process. It's a bit buggy and doesn't integrate with the other Atlassian products as we would like, but Crucible increases our review turnover. It is much quicker to choose which files to review, comment on the source, and complete the review. The reviews are persisted so other people can  checkout what happened in the review. What we are noticing is that developers are posting comments on lines of code and the author comes in and comments on his design decision. You just don't get that kind of immediate feedback when using Jupiter. 
+To get on track we have integrated [Crucible][4], a code review tool from the great people at [Atlassian][5], into our development process. It's a bit buggy and doesn't integrate with the other Atlassian products as we would like, but Crucible increases our review turnover. It is much quicker to choose which files to review, comment on the source, and complete the review. The reviews are persisted so other people can checkout what happened in the review. What we are noticing is that developers are posting comments on lines of code and the author comes in and comments on his design decision. You just don't get that kind of immediate feedback when using Jupiter. 
 
 So back to the developers committing broken code to the trunk. We don't want that. We want code that has been reviewed by other developers who are working on similar feature sets to be committed to the trunk. So my question is "How do we setup our branches?". (Keep in mind that we use Subversion) 
 
@@ -46,8 +46,8 @@ anyone. They can get their code reviewed by their peers. Everyone is happy.
 Perhaps in the make believe place of No Bugs Land.
 
 Complications arise when more than one developer is touching the same file. What if two developers finish 
-their features but are using the same file. Do we merge their changes?  Can we combine their features 
-into a separate branch and then create a review?  That might work.
+their features but are using the same file. Do we merge their changes? Can we combine their features 
+into a separate branch and then create a review? That might work.
 
 We definately need some review and merging management. The problem we want to avoid is having a backlog 
 of reviews. For example, Developer A might be working on file X. He finishes and requests a review for it

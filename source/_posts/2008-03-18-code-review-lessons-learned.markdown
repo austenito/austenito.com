@@ -28,7 +28,7 @@ source code. What I found during this review is that a lot of my code was skippe
 didn't know what the external method calls were doing. All they had to go on was the name and my inline 
 comments. They ended up taking a lot of things for granted and assumed that everything was fine and dandy.
 That is the exact opposite behavior that I want reviewers to have. If they are going to find interesting 
-and helpful issues, they must question everything!  No one writes perfect code. Especially not me.
+and helpful issues, they must question everything! No one writes perfect code. Especially not me.
 
 Code reviews makes everyone on your team better. I can't wait to try [Crucible][2]
 

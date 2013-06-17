@@ -15,7 +15,7 @@ Over the past couple weeks, I was [getting interviewed by Aaron][1]. This was th
 
 3. Using back-and-forth emails to interview a person is better than I thought. I originally thought it would be better to just send one email with a whole bunch of questions. After doing this interview, where I spent long periods of time just thinking of an answer, I was glad that each email only had one question. It felt like I was accomplishing something and I didn't half-ass the end portion of the interview. 
 
-4. Self-introspection is fun!  You get to learn about yourself. It's interesting when you learn new things about someone you should know the best.
+4. Self-introspection is fun! You get to learn about yourself. It's interesting when you learn new things about someone you should know the best.
 
 
 I definitely recommend getting interviewed. It was a great experience that I want to have again in the near future. It is actually very easy to get interviewed. Just ask a friend, neighbor, colleague to think of themselves at a bar having a few drinks with you. After everyone is feeling good, fire away with the questions. Its a relaxed atmosphere with absolutely no pressure. All upside, no downside. Anyone want to get interviewed by me?

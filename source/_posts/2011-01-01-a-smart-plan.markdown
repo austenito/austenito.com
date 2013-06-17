@@ -20,7 +20,7 @@ If I want to continue along Django, I can add another goal to this list.
 
 # Improve my online presence
 
-Vague goal #2. What?  How am I going to improve my online presence?  I just
+Vague goal #2. What? How am I going to improve my online presence? I just
 did a quick search on "Improving my online presence" and I see the same things:
 
 * write a blog

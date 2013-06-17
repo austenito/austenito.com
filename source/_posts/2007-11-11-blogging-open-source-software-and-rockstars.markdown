@@ -15,7 +15,7 @@ I've talked to some developers that do not see the value of blogging, but I do f
 write your software thoughts, troubles, and experiences down really helps me get a clear idea of what I'm 
 doing. You canthink of blogging as doing your software design on paper. You don't just sit in front of 
 your workstation and start whipping out code. You slow down, grab some paper, and draw out how you are 
-going to solve problems x, y, and z. When you blog,  it helps you stop and think about what has happened.
+going to solve problems x, y, and z. When you blog, it helps you stop and think about what has happened.
 You can reflect on a interesting blog you found or bring up technical problems in your current open-source 
 project. 
 
@@ -26,7 +26,7 @@ or you just don't like what you are doing. Making yourself marketable doesn't ha
 take many years of hardwork, discipline and motivation. As a noob developer, I'm still starting on this 
 process. It is tough staying disciplined, but I know that it will be worth it.
 
-Give people all the information about what type of software developer you are. Help interviewers out. They are the ones that need to figure out if you are right for their company.  Blogging and Open Source 
+Give people all the information about what type of software developer you are. Help interviewers out. They are the ones that need to figure out if you are right for their company. Blogging and Open Source 
 contributions give them that information. Type your name into Google. I know your interviewer will.
 
 
