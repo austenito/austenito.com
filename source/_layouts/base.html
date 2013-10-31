@@ -15,6 +15,7 @@
   <link href="{{ root_url }}/favicon.png" rel="icon">
   <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+  {% include external/google_analytics.html %}
 </head>
 {% unless body_class %} {% assign body_class = 'default' %} {% endunless %}
 <body class="{{ body_class }}">
@@ -24,7 +25,6 @@
     {% include footer.html %}
   </div> <!-- #wrapper end -->
 
-  {% include external/google_analytics.html %}
   {% include external/disqus.html %}
   {% include external/facebook_like.html %}
   {% include external/google_plus_one.html %}
