@@ -8,6 +8,7 @@ categories:
 
 # Looking back on 2013
 
+:turtle:
 I love going back in time to read posts I've written a year ago. It's interesting
 to see what state of mind I was in when I wrote those posts. At the
 start of 2013, I wanted to focus on things that weren't related to programming. I

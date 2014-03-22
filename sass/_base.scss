@@ -3,3 +3,10 @@
 @import "base/layout";
 @import "base/typography";
 @import "base/utilities";
+
+.emojify {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  top: 2px;
+}
