@@ -1,0 +1,48 @@
+---
+layout: post
+title: Habits
+date: 2013-08-25 20:56
+comments: true
+categories: personal
+---
+
+I recently finished [The Power of Habit][1], which talks about creating good
+habits to enforce desirable attirbutes. For example, an attribute I
+would love is to wake up earlier or learning French instead of checking Facebook. 
+Most people don't know what they are doing or what type of habits they have. This got me thinking about
+what types of habits I have right now.
+
+## Good Habits
+
+* Exercise: Crossfit five times a week
+* Pomodoro: Daily Pomodoros to jumpstart my week
+* Omnifocus and GTD workflow
+
+## Bad Habits
+
+The hard part is realizing what my bad habits are. It's almost like I need a
+habit coach telling me what I'm doing that's terrible.
+
+* Waking up later than I would like
+* Derping around at night when I should just go to sleep
+* Jumping on my computer and checking Facebook and HackerNews right when I wake
+up
+* Drinking Diet Soda
+* Watching TV when I'm bored
+* Constantly checking my email
+
+## A Habit Experiment
+I'm working on the "Cue, Habit, Reward" loop explained in the book. Essentially
+it's a way to figure out what habit I have and what reward I get from doing my bad habit. Once I figure out
+what to change, I can inject a desirable habit to achieve the same reward.
+
+Right now I have a little experiment going on. I have a Google Doc spreadsheet with columns 
+containing the habit I want to change, the reward I get from that habit and
+other activities that might give me the same reward. After 5-10 minutes I write
+down how I feel to see if I get the reward my body wants.
+
+We'll see how this goes. This blog post is actually a habit I'm injecting in
+the place of watching TV when I'm bored. I'm slowly working through the list
+and figuring out ways to become more productive and full of great habits.
+
+[1]: http://www.amazon.com/The-Power-Habit-What-Business/dp/1400069289

@@ -1,0 +1,13 @@
+.post {
+  font-size: 18px;
+  letter-spacing: 5px;
+  margin-bottom: 30px;
+
+  .date {
+    font-size: 16px;
+  }
+
+  @include xs-screen {
+    margin-bottom: 15px;
+  }
+}
