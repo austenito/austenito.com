@@ -15,10 +15,28 @@ header {
   h2 {
     letter-spacing: 8px;
     margin-bottom: 50px;
+
+    @include lte-sm-screen {
+      margin-bottom: 0;
+    }
   }
 
   a, a:hover {
     text-decoration: none;
+  }
+
+  .personal-links {
+    margin-top: 23px;
+
+    @include lte-sm-screen {
+      margin-top: 5px;
+      margin-bottom: 50px;
+    }
+
+    img {
+      height: 25px;
+      width: 25px;
+    }
   }
 }
 

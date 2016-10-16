@@ -3,7 +3,7 @@ layout: post
 title: "8 weeks into the Github 365 Challenge"
 date: 2014-06-29 14:45
 comments: true
-categories: 
+categories: tech
 ---
 
 I've been attempting to write code everyday like [John Resig](http://ejohn.org/blog/write-code-every-day/)
@@ -13,7 +13,7 @@ Here's my current 8 week graph:
 ![8 Weeks In](/assets/images/posts/8_weeks_in.png)
 
 What I really like about this project besides working in short sprints instead of marathon coding sessions
-is looking back on the nights I _didn't_ commit. For example, in this commit, I learned the hard way that 
+is looking back on the nights I _didn't_ commit. For example, in this commit, I learned the hard way that
 I need to be committing to master instead of a branch to get credit.
 
 ![Commiting to a branch](/assets/images/posts/commiting_to_branch.png)
@@ -27,8 +27,5 @@ And finally, sometimes I really need to just come home instead of staying out:
 ![Out too late](/assets/images/posts/out_too_late.png)
 
 Another thing that I've learned in the 8 weeks is not to be too hard on myself. This challenge isn't about
-coding 365 days in a row. It's about doing something I love everyday to get better, just like 
+coding 365 days in a row. It's about doing something I love everyday to get better, just like
 [Mr. Seinfeld](http://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/).
-
-
-

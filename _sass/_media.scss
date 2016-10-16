@@ -10,6 +10,12 @@
   }
 }
 
+@mixin lte-sm-screen {
+  @media screen and (max-width: 991px) {
+    @content;
+  }
+}
+
 @mixin md-screen {
   @media screen and (min-width: 992px) and (max-width: 1199px) {
     @content;

@@ -3,10 +3,11 @@ layout: post
 title: "Getting Technically Started"
 date: 2010-02-13
 comments: true
+categories: tech
 ---
 
 
-Where do I begin? This question scared the crap out of me when I forayed into the job space straight out of the university. Everything was wild and unknown. I needed a tour guide yesterday. 
+Where do I begin? This question scared the crap out of me when I forayed into the job space straight out of the university. Everything was wild and unknown. I needed a tour guide yesterday.
 
 As a new grad, I tried a lot of things. I read books and blogs. Listened to podcasts. Worked on open source projects like [Hackystat][1] and personal projects like an [Open Microblogging Plaform][2] and a ping pong score tracker. I tried a bunch of different approaches to improving my technical life.This blog's aim is to help you filter out the noise. I'll write what worked for me with the hope that it can bootstrap your improvement outside of college.
 
@@ -31,22 +32,22 @@ Blogs are an excellent knowledge resource. StackOverflow has a thread on [the be
 
 - [Basil Vandegriend: Professional Software Development][6]  
 - [Coding Horror][7]  
-- [Creating Passionate Users][8] - It's a shame that this blog shutdown do someone stalking Kathy Sierra. It's still worth it to go through the blog archives. 
+- [Creating Passionate Users][8] - It's a shame that this blog shutdown do someone stalking Kathy Sierra. It's still worth it to go through the blog archives.
 - [Joel on Software][9]  
 - [Rands In Repose][10]  
-- [reddit.com: Joel on Software -what's new online][11]  -Kinda like a hacker version of digg 
+- [reddit.com: Joel on Software -what's new online][11]  -Kinda like a hacker version of digg
 - [Steve Yegge's Blog Rants][12]  
-- [Hacker News][13] - Up to date tech news 
+- [Hacker News][13] - Up to date tech news
 - [Kohsuke Kawaguchi's Blog][14] - The lead of[Hudson][15] This guy does some crazy stuff. - [Slashdot][16] - Geek news for geeky people like you and me - [xkcd.com][17] - This isn't a blog, but every hacker should read xkcd. Seriously.
-                                                                                                                                                                                                          
-I also follow the blogs of people I've met at the university or through work. They are all interesting as well. 
+
+I also follow the blogs of people I've met at the university or through work. They are all interesting as well.
 - [Engineering Log][18] - The maintainer of the[jupiter-eclipse-plugin][19]  
-- [HackyHawaii For Life by AK][20] - Hasn't been posting lately, but great advice for new grads. 
-- [PMJ Engineering Log][21] - Philip Johnson's blog. 
+- [HackyHawaii For Life by AK][20] - Hasn't been posting lately, but great advice for new grads.
+- [PMJ Engineering Log][21] - Philip Johnson's blog.
 - [Seize the Moment of Excited Curiosity for the Acquisition of Knowledge][22]  
 - [SidSavara.com][23] - A personal improvement/life hacker blog. Cool dude, coolblog.
-                            
-                           
+
+
 # Reading Code
 
 As a hacker you want to get into the nitty gritty. You want to jump into that source and show it who's boss. You're going to write millions of lines of unit tested, bug free, elegant code. But wait.
@@ -55,7 +56,7 @@ Do you enjoy reading other people's code? No? That's too bad because reading cod
 
 It might seem obvious, but you should get out there and read code. It's actually really easy:
 
-Step 1: Find an interesting project on SourceForge or Github. 
+Step 1: Find an interesting project on SourceForge or Github.
 Step 2: Check out the source
 Step 3: Read the source.
 
@@ -65,13 +66,13 @@ Voila. You are on your way to code reading mastery. You could even take a step i
 
 I don't need to write much here. Practice, practice, practice. I would suggest immediately starting with a new language because it promotes new ways of thinking. You'll realize the importance of learning new languages once you apply a language design pattern from one language to another.
 
-I started with[Ruby on Rails][26] because I was interested in web frameworks. I've made a[resolution][27] to work with Python this year. Pick something you find interesting and do some[Code Kata][28] or create yourself a side project. 
+I started with[Ruby on Rails][26] because I was interested in web frameworks. I've made a[resolution][27] to work with Python this year. Pick something you find interesting and do some[Code Kata][28] or create yourself a side project.
 
 # Blogging
 
 Blogging is an excellent tool. I know that it's not for everyone, but I find that it continually improves my thinking and writing skills. I brainstorm during my commute to work, the walk to Starbucks, the lonely period in the bathroom. I think about interesting blog topics and if my readers (all 5 of them) would get it. Blogging puts your thoughts into written form. Sometimes it's hard to express what you mean until you try to explain it to someone else.
 
-Another great thing about blogging is that it can help you with your[Periodic Resume Updates][29] You won't be able to remember what you've done over the past year, but having an activity log will help figure out what you should add to your resume or tell you that you aren't investing in yourself enough. 
+Another great thing about blogging is that it can help you with your[Periodic Resume Updates][29] You won't be able to remember what you've done over the past year, but having an activity log will help figure out what you should add to your resume or tell you that you aren't investing in yourself enough.
 
 # Hang out with Hackers
 

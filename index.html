@@ -3,7 +3,33 @@ layout: default
 ---
 
 <div class='container posts'>
-  {% for post in site.posts %}
+  <div class='row'>
+    <div class='col-sm-9 col-md-8 col-md-offset-1'>
+      <h1>Tech</h1>
+    </div>
+  </div>
+
+  {% for post in site.categories['tech'] %}
+    <div class='row'>
+      <div class='post'>
+        <div class='col-sm-9 col-md-8 col-md-offset-1'>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </div>
+        <div class='col-sm-3'>
+          <span class='date'>{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class='container posts'>
+  <div class='row'>
+    <div class='col-sm-9 col-md-8 col-md-offset-1'>
+      <h1>Wine</h1>
+    </div>
+  </div>
+  {% for post in site.categories['wine'] %}
     <div class='row'>
       <div class='post'>
         <div class='col-sm-9 col-md-8 col-md-offset-1'>

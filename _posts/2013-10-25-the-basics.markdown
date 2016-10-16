@@ -3,11 +3,11 @@ layout: post
 title: The Basics
 date: 2013-10-25 19:56
 comments: true
-categories: gtd
+categories: tech
 ---
 
-I'm big on increasing my productivity and workflow. As a new developer, it's easy to be overwhelmed 
-by new concepts, deadlines, shipping 2 hours before a project is due. Let's be honest, we make it 
+I'm big on increasing my productivity and workflow. As a new developer, it's easy to be overwhelmed
+by new concepts, deadlines, shipping 2 hours before a project is due. Let's be honest, we make it
 harder on ourselves than need be.
 
 Here is a list of tools I use everyday to streamline my work day.
@@ -19,7 +19,7 @@ Here is a list of tools I use everyday to streamline my work day.
 * [Pomodoro][3]
 * [Omnifocus][4] - For all devices (Phone, Mac, iPad)
 * [Vim with a custom dotfiles][5] - Who needs the mouse?
-* [tmux][6] 
+* [tmux][6]
 * [Divvy][7]
 * [Fantastical][8]
 * [Evernote][9]
@@ -41,23 +41,23 @@ your day.
 
 Here is what I do every week.
 
-* [Getting Things Done (GTD)][18] - The GTD workflow in combination with Omnifocus has been by far 
-the most productivity boosting workflow and tool combination. The learning curve is high, however 
+* [Getting Things Done (GTD)][18] - The GTD workflow in combination with Omnifocus has been by far
+the most productivity boosting workflow and tool combination. The learning curve is high, however
 you can blow through your TODO items when you understand the process.
-* [Inbox Zero][19] - I hate checking email. I hate the little icon displaying how many email 
-messages I have right this second. I use AirMail to check my email a few times a day. When I clear 
-out my inbox, I close the app. I have even played with only checking email on my phone to force 
+* [Inbox Zero][19] - I hate checking email. I hate the little icon displaying how many email
+messages I have right this second. I use AirMail to check my email a few times a day. When I clear
+out my inbox, I close the app. I have even played with only checking email on my phone to force
 myself to avoid contstantly checking who sent me what.
 * Check email a _only_ few times a day
-* [Pomodoro Technique][20] - I mainly use this to jumpstart my day. When I get to work, I do a 
+* [Pomodoro Technique][20] - I mainly use this to jumpstart my day. When I get to work, I do a
 few pomodoros to get me into the programming groove.
 * Remapping Control to Caps Lock - As coders we shouldn't be moving our pinkys all the way down to hit Control.
-* Weekly Reviews - This might be one of the most important steps that I do weekly. I review all of 
-the tasks in Omnifocus to verify they are still relevant and check what I actually was doing on RescueTime. 
+* Weekly Reviews - This might be one of the most important steps that I do weekly. I review all of
+the tasks in Omnifocus to verify they are still relevant and check what I actually was doing on RescueTime.
 Once I have some data on what I want to do and what I did, I can adjust myself going forward.
 
-My workflow isn't perfect and is by no means an exhaustive list. I am constantly iterating on my 
-process and adding new tools. When I visit other people's workstations or see them using their phone, 
+My workflow isn't perfect and is by no means an exhaustive list. I am constantly iterating on my
+process and adding new tools. When I visit other people's workstations or see them using their phone,
 I always ask what apps or tools they use. I love to hear how other people do their everyday things.
 
 [1]: http://www.alfredapp.com/

@@ -3,12 +3,12 @@ layout: post
 title: Habits
 date: 2013-08-25 20:56
 comments: true
-categories: personal
+categories: tech
 ---
 
 I recently finished [The Power of Habit][1], which talks about creating good
 habits to enforce desirable attirbutes. For example, an attribute I
-would love is to wake up earlier or learning French instead of checking Facebook. 
+would love is to wake up earlier or learning French instead of checking Facebook.
 Most people don't know what they are doing or what type of habits they have. This got me thinking about
 what types of habits I have right now.
 
@@ -36,7 +36,7 @@ I'm working on the "Cue, Habit, Reward" loop explained in the book. Essentially
 it's a way to figure out what habit I have and what reward I get from doing my bad habit. Once I figure out
 what to change, I can inject a desirable habit to achieve the same reward.
 
-Right now I have a little experiment going on. I have a Google Doc spreadsheet with columns 
+Right now I have a little experiment going on. I have a Google Doc spreadsheet with columns
 containing the habit I want to change, the reward I get from that habit and
 other activities that might give me the same reward. After 5-10 minutes I write
 down how I feel to see if I get the reward my body wants.
