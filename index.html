@@ -2,43 +2,18 @@
 layout: default
 ---
 
-<div class='container posts'>
+<div class='container sidebar'>
   <div class='row'>
-    <div class='col-sm-9 col-md-8 col-md-offset-1'>
-      <h1>Tech</h1>
+    <div class='col-md-1 col-xs-3'>
+      <ul class='sidebar__list'>
+        <li class='sidebar__list-item'><a target='_blank' href='https://github.com/austenito'>Github</a></li>
+        <li class='sidebar__list-item'><a target='_blank' href='https://twitter.com/austenito'>Twitter</a></li>
+        <li class='sidebar__list-item'><a target='_blank' href='https://delectable.com/@austenito'>Wine</a></li>
+      </ul>
+    </div>
+
+    <div class='col-md-10 col-xs-9'>
+      I like programming, wine, poptarts, and french fries. Except those shoestring fries. Those are terrible.
     </div>
   </div>
-
-  {% for post in site.categories['tech'] %}
-    <div class='row'>
-      <div class='post'>
-        <div class='col-sm-9 col-md-8 col-md-offset-1'>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </div>
-        <div class='col-sm-3'>
-          <span class='date'>{{ post.date | date: "%b %-d, %Y" }}</span>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
-
-<div class='container posts'>
-  <div class='row'>
-    <div class='col-sm-9 col-md-8 col-md-offset-1'>
-      <h1>Wine</h1>
-    </div>
-  </div>
-  {% for post in site.categories['wine'] %}
-    <div class='row'>
-      <div class='post'>
-        <div class='col-sm-9 col-md-8 col-md-offset-1'>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </div>
-        <div class='col-sm-3'>
-          <span class='date'>{{ post.date | date: "%b %-d, %Y" }}</span>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
 </div>

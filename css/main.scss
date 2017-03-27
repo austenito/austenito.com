@@ -2,27 +2,34 @@
 ---
 
 @import 'fonts';
+@import 'colors';
 @import 'media';
 @import 'posts';
 @import 'post';
 
 body {
-  font-family: 'Source Sans Pro';
-  font-size: 16px;
+  font-family: 'Monaco', sans-serif;
+  background-color: $gray;
+  color: $light-gray;
+  font-size: 14px;
+}
+
+.sidebar {
+  &__list {
+    padding-left: 0;
+    list-style-type: none;
+  }
 }
 
 header {
   h2 {
-    letter-spacing: 8px;
-    margin-bottom: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
 
-    @include lte-sm-screen {
-      margin-bottom: 0;
+    a, a:hover, a:visited, a:active {
+      text-decoration: none;
+      color: $green;
     }
-  }
-
-  a, a:hover {
-    text-decoration: none;
   }
 
   .personal-links {
@@ -40,10 +47,7 @@ header {
   }
 }
 
-a {
+a, a:visited, a:active {
+  color: $yellow;
   text-decoration: none;
-}
-
-a, a:hover {
-  color: black;
 }
