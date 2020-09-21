@@ -3,17 +3,34 @@ layout: default
 ---
 
 <div class="row">
-  <div class="col-sm-12 col-md-3 col-lg-2 sidebar">
-    <ul class="sidebar__list">
-      <li class="sidebar__list-item"><a target="_blank" href="https://github.com/austenito">Github</a></li>
-      <li class="sidebar__list-item"><a target="_blank" href="https://twitter.com/austenito">Twitter</a></li>
-      <li class="sidebar__list-item"><a target="_blank" href="https://delectable.com/@austenito">Wine</a></li>
-    </ul>
-  </div>
-
-  <div class="col-sm-12 col-md-8 content">
-    <div>
-      I like programming, wine, poptarts, and french fries.
+  <div class="col-sm-2"></div>
+  <div class="col-sm-8">
+    <div class="header">
+      <a target="_blank" href="https://github.com/austenito">Github</a>
+      <span class="seperator">-</span>
+      <a target="_blank" href="https://twitter.com/austenito">Twitter</a>
     </div>
   </div>
+  <div class="col-sm-2"></div>
+</div>
+
+<div class="row">
+  <div class="col-sm-2"></div>
+  <div class="col-sm-8">
+    <div class="content">
+      I like programming, wine, poptarts, french fries, and le français. You'll most likely find my wine notes below.
+      Please excuse my horrible french.
+    </div>
+
+    <div class="posts">
+      <ul>
+        {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="col-sm-2"></div>
 </div>
