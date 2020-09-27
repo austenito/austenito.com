@@ -50,9 +50,22 @@ a:active {
 
 .posts {
   margin-top: 2rem;
+
   ul {
     list-style: none;
     padding: 0;
+    width: 100%;
+  }
+
+  &--item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.3rem;
+  }
+
+  &--date {
+    font-size: 0.9rem;
+    color: $gray;
   }
 }
 

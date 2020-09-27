@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '2020/09/20 - Gramercy Cellars Inigo Montoya 2014'
-date: 2020-09-20
+title: 'Gramercy Cellars Inigo Montoya 2014'
+date: 2020/09/20
 comments: true
 categories:
   - wine
