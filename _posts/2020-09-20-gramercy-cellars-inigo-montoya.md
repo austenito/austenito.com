@@ -20,9 +20,13 @@ Region: Walla Walla Washington
 Vineyard Details:
 
 Acidity: Medium+
+
 Body: Medium
+
 Intesity: Medium+
+
 Tannins: Medium+
+
 Finish: Long
 
 Coconut, blueberries, black fruits, and smokey. Nice oak presence followed by a long finish.

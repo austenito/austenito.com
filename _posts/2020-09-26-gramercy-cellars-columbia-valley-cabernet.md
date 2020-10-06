@@ -22,9 +22,13 @@ Vineyard Details: 40% Phinny Hill, 33% Gramercy Estate and 27% Sagemoor – Bacc
 Varietals: 92% Cab Sauvignon, 7% Merlot, 1% Petit Verdot
 
 Acidity: Medium
+
 Body: Medium+/Full
+
 Intesity: Medium+
+
 Tannins: Medium+
+
 Finish: Long
 
 Sweet spices, mocha, black currants, black cherries. Extremely balanced. Reminds me of Bordeaux.

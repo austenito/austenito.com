@@ -21,9 +21,13 @@ Details: Fermented at least 35 days on skins then aged in large Slavonian botti.
 to the quality Arianna is looking for, it's blended into the SP68.
 
 Acidity: Medium+
+
 Body: Medium
+
 Intesity: Medium+
+
 Tannins: Medium
+
 Finish: Long
 
 Oak, ripe red cherries, earthy, sweet spices. First time having the cuvée from Occhipinti and it
