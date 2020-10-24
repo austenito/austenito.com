@@ -21,7 +21,7 @@ Acidity: Medium+
 
 Body: Medium+
 
-Intesity: Medium+
+Intensity: Medium+
 
 Tannins: Medium+
 
@@ -32,7 +32,7 @@ Ripe red cherries, floral, baking spices, earthy, cinnamon.
 Even better than I remember. I'm in love with all the wines from Clos de la Roilette and Moulin-a-vent
 in general. Clos de la Roilette is right on the edge between Fleurie and Moulin-à-Vent, which gives it
 everything I love about both crus. Fleurie gives it the lovely aromatics and ripe red fruits.
-Moulin-à-Vent gives it the intesity, depth, and structure along with the earthy, dried fruit
+Moulin-à-Vent gives it the Intensity, depth, and structure along with the earthy, dried fruit
 characteristics that I adore.
 
 91/100

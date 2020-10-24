@@ -24,7 +24,7 @@ Acidity: Medium+
 
 Body: Medium
 
-Intesity: Medium+
+Intensity: Medium+
 
 Tannins: Medium
 
