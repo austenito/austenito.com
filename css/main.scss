@@ -18,7 +18,13 @@ body {
 }
 
 .header {
-  font-size: 1.5rem;
+  font-size: 1rem;
+  align-items: baseline;
+
+  .name {
+    font-size: 3rem;
+    margin-right: auto;
+  }
 
   a,
   a:visited,
@@ -34,6 +40,11 @@ body {
   .seperator {
     margin: 0 0.3rem;
   }
+}
+
+.header-separator {
+  margin-top: -1.5rem;
+  margin-bottom: -1.5rem;
 }
 
 .content {
