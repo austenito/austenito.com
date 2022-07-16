@@ -1,0 +1,43 @@
+@font-face { font-family: 'Monaco'; src: url("/assets/fonts/monaco.ttf"); font-weight: normal; }
+
+.post { font-size: 18px; letter-spacing: 5px; margin-bottom: 30px; }
+
+.post .date { font-size: 16px; }
+
+@media screen and (max-width: 767px) { .post { margin-bottom: 15px; } }
+
+.post { letter-spacing: 1px; }
+
+.post p { margin-bottom: 20px; }
+
+.post img { max-width: 100%; height: auto; display: block; }
+
+body { font-family: Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #fff; color: #000; font-size: 18px; margin-top: 1rem; font-weight: 200; margin-left: 3rem; }
+
+.header { font-size: 1rem; align-items: baseline; }
+
+.header .name { font-size: 3rem; margin-right: auto; }
+
+.header a, .header a:visited, .header a:active { color: #000; text-decoration: none; }
+
+.header a:hover { text-decoration: underline; }
+
+.header .seperator { margin: 0 0.3rem; }
+
+.header-separator { margin-top: -1.5rem; margin-bottom: -1.5rem; }
+
+.content { margin: 0 auto; margin-top: 2rem; }
+
+a, a:visited, a:active { color: #000; text-decoration: none; }
+
+.posts { margin-top: 2rem; }
+
+.posts ul { list-style: none; padding: 0; width: 100%; }
+
+.posts--item { display: flex; justify-content: space-between; margin-bottom: 0.3rem; }
+
+.posts--date { font-size: 0.9rem; color: #272822; }
+
+.post { margin-top: 2rem; }
+
+/*# sourceMappingURL=main.css.map */

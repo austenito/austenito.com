@@ -1,0 +1,22 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/_fonts.scss",
+		"_sass/_colors.scss",
+		"_sass/_media.scss",
+		"_sass/_posts.scss",
+		"_sass/_post.scss"
+	],
+	"sourcesContent": [
+		"@import 'fonts';\n@import 'colors';\n@import 'media';\n@import 'posts';\n@import 'post';\n\nbody {\n  font-family: Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';\n  background-color: $white;\n  color: $black;\n  font-size: 18px;\n  margin-top: 1rem;\n  font-weight: 200;\n  margin-left: 3rem;\n}\n\n.header {\n  font-size: 1rem;\n  align-items: baseline;\n\n  .name {\n    font-size: 3rem;\n    margin-right: auto;\n  }\n\n  a,\n  a:visited,\n  a:active {\n    color: $black;\n    text-decoration: none;\n  }\n\n  a:hover {\n    text-decoration: underline;\n  }\n\n  .seperator {\n    margin: 0 0.3rem;\n  }\n}\n\n.header-separator {\n  margin-top: -1.5rem;\n  margin-bottom: -1.5rem;\n}\n\n.content {\n  margin: 0 auto;\n  margin-top: 2rem;\n}\n\na,\na:visited,\na:active {\n  color: $black;\n  text-decoration: none;\n}\n\n.posts {\n  margin-top: 2rem;\n\n  ul {\n    list-style: none;\n    padding: 0;\n    width: 100%;\n  }\n\n  &--item {\n    display: flex;\n    justify-content: space-between;\n    margin-bottom: 0.3rem;\n  }\n\n  &--date {\n    font-size: 0.9rem;\n    color: $gray;\n  }\n}\n\n.post {\n  margin-top: 2rem;\n}\n",
+		"@font-face {\n  font-family: 'Monaco';\n  src: url('/assets/fonts/monaco.ttf');\n  font-weight: normal;\n}\n",
+		"// Molokai themed colors\n$gray: #272822;\n$red: #f92672;\n$purple: #ae81ff;\n$yellow: #e6db74;\n$dark-gray: #75715e;\n$light-gray: #f8f8f2;\n$blue: #66d9ef;\n$green: #95f067;\n$turquoise: #25faac;\n$white: #fff;\n$black: #000;\n",
+		"@mixin xs-screen {\n  @media screen and (max-width: 767px) {\n    @content;\n  }\n}\n\n@mixin sm-screen {\n  @media screen and (min-width: 768px) and (max-width: 991px) {\n    @content;\n  }\n}\n\n@mixin lte-sm-screen {\n  @media screen and (max-width: 991px) {\n    @content;\n  }\n}\n\n@mixin md-screen {\n  @media screen and (min-width: 992px) and (max-width: 1199px) {\n    @content;\n  }\n}\n\n@mixin lg-screen {\n  @media screen and (min-width: 1200px) {\n    @content;\n  }\n}\n",
+		".post {\n  font-size: 18px;\n  letter-spacing: 5px;\n  margin-bottom: 30px;\n\n  .date {\n    font-size: 16px;\n  }\n\n  @include xs-screen {\n    margin-bottom: 15px;\n  }\n}\n",
+		".post {\n  letter-spacing: 1px;\n\n  p {\n    margin-bottom: 20px;\n  }\n\n  img {\n    max-width: 100%;\n    height: auto;\n    display: block;\n  }\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,UAAU,GACR,WAAW,EAAE,QAAQ,EACrB,GAAG,EAAE,+BAA+B,EACpC,WAAW,EAAE,MAAM;;AGHrB,AAAA,KAAK,CAAC,EACJ,SAAS,EAAE,IAAI,EACf,cAAc,EAAE,GAAG,EACnB,aAAa,EAAE,IAAI,GASpB;;AAZD,AAKE,KALG,CAKH,KAAK,CAAC,EACJ,SAAS,EAAE,IAAI,GAChB;;ADND,MAAM,8BCDR,GAAA,AAAA,KAAK,CAAC,EAUF,aAAa,EAAE,IAAI,GAEtB,EAAA;;ACZD,AAAA,KAAK,CAAC,EACJ,cAAc,EAAE,GAAG,GAWpB;;AAZD,AAGE,KAHG,CAGH,CAAC,CAAC,EACA,aAAa,EAAE,IAAI,GACpB;;AALH,AAOE,KAPG,CAOH,GAAG,CAAC,EACF,SAAS,EAAE,IAAI,EACf,MAAM,EAAE,IAAI,EACZ,OAAO,EAAE,KAAK,GACf;;ALLH,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,sFAAsF,EACnG,gBAAgB,EEEV,IAAI,EFDV,KAAK,EEEC,IAAI,EFDV,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,IAAI,EAChB,WAAW,EAAE,GAAG,EAChB,WAAW,EAAE,IAAI,GAClB;;AAED,AAAA,OAAO,CAAC,EACN,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,QAAQ,GAqBtB;;AAvBD,AAIE,OAJK,CAIL,KAAK,CAAC,EACJ,SAAS,EAAE,IAAI,EACf,YAAY,EAAE,IAAI,GACnB;;AAPH,AASE,OATK,CASL,CAAC,EATH,OAAO,CAUL,CAAC,CAAC,OAAO,EAVX,OAAO,CAWL,CAAC,CAAC,MAAM,CAAC,EACP,KAAK,EEjBD,IAAI,EFkBR,eAAe,EAAE,IAAI,GACtB;;AAdH,AAgBE,OAhBK,CAgBL,CAAC,CAAC,KAAK,CAAC,EACN,eAAe,EAAE,SAAS,GAC3B;;AAlBH,AAoBE,OApBK,CAoBL,UAAU,CAAC,EACT,MAAM,EAAE,QAAQ,GACjB;;AAGH,AAAA,iBAAiB,CAAC,EAChB,UAAU,EAAE,OAAO,EACnB,aAAa,EAAE,OAAO,GACvB;;AAED,AAAA,QAAQ,CAAC,EACP,MAAM,EAAE,MAAM,EACd,UAAU,EAAE,IAAI,GACjB;;AAED,AAAA,CAAC,EACD,CAAC,CAAC,OAAO,EACT,CAAC,CAAC,MAAM,CAAC,EACP,KAAK,EE3CC,IAAI,EF4CV,eAAe,EAAE,IAAI,GACtB;;AAED,AAAA,MAAM,CAAC,EACL,UAAU,EAAE,IAAI,GAkBjB;;AAnBD,AAGE,MAHI,CAGJ,EAAE,CAAC,EACD,UAAU,EAAE,IAAI,EAChB,OAAO,EAAE,CAAC,EACV,KAAK,EAAE,IAAI,GACZ;;AAPH,AASE,YATI,CASI,EACN,OAAO,EAAE,IAAI,EACb,eAAe,EAAE,aAAa,EAC9B,aAAa,EAAE,MAAM,GACtB;;AAbH,AAeE,YAfI,CAeI,EACN,SAAS,EAAE,MAAM,EACjB,KAAK,EE1EF,OAAO,GF2EX;;AAGH,AAAA,KAAK,CAAC,EACJ,UAAU,EAAE,IAAI,GACjB"
+}
