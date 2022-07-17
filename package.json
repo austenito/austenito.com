@@ -16,15 +16,15 @@
     "js-build": "cross-env NODE_ENV=production webpack --progress",
     "js-watch": "cross-env NODE_ENV=development webpack --watch",
     "docker-js-image": "docker build . --file Dockerfile.build-js -t austenito.com-js",
-    "docker-js-build": "docker run austenito.com-js npm run js-build",
-    "docker-js-watch": "docker run austenito.com-js npm run js-watch",
-    "docker-blog-image": "docker build . --file Dockerfile -t austenito.com",
-    "docker-blog-serve": "docker run -v dist:/blog/dist -v $(pwd)/:/blog -p 4000:4000 austenito.com jekyll serve --host 0.0.0.0",
-    "docker-blog-build": "docker run -v dist:/blog/dist -v $(pwd)/:/blog austenito.com jekyll build"
+    "docker-js-build": "docker run -v dist:/dist austenito.com-js npm run js-build",
+    "docker-js-watch": "docker run -v dist:/dist austenito.com-js npm run js-watch",
+    "docker-blog-image": "docker build . --platform linux/amd64 --file Dockerfile.jekyll -t registry.digitalocean.com/public-registry/austenito.com",
+    "docker-blog-publish": "docker push registry.digitalocean.com/public-registry/austenito.com:latest",
+    "docker-blog-serve": "docker run -v dist:/blog/dist -v $(pwd)/:/blog -p 4000:4000 registry/digitalocean.com/public-registry/austenito.com jekyll serve --host 0.0.0.0",
+    "docker-blog-build": "docker run -v dist:/blog/dist -v $(pwd)/:/blog registry.digitalocean.com/public-registry/austenito.com jekyll build"
   },
   "dependencies": {
     "chart.js": "^3.8.0",
-    "chartjs": "^0.3.24",
     "vue": "^3.2.37",
     "vue-chartjs": "^4.1.1"
   }

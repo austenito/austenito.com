@@ -1,0 +1,9 @@
+FROM ruby:2.7
+
+WORKDIR /blog
+
+RUN mkdir /blog/dist
+
+RUN gem install jekyll
+
+EXPOSE 4000
