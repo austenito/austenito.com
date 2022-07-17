@@ -8,7 +8,6 @@ module.exports = {
     path: path.resolve(__dirname, '/dist'),
     filename: 'build.js',
   },
-  mode: 'development',
   module: {
     rules: [
       { test: /\.js$/, use: 'babel-loader' },
@@ -21,13 +20,6 @@ module.exports = {
   },
   plugins: [new VueLoaderPlugin()],
   resolve: {
-    //alias: {
-    //  vue$: 'vue/dist/vue.esm.js',
-    //},
     extensions: ['*', '.js', '.vue', '.json'],
   },
 };
-
-if (process.env.NODE_ENV === 'production') {
-  module.exports.mode = 'production';
-}

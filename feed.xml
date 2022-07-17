@@ -5,7 +5,7 @@
     <atom:link href="http://austenito.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://austenito.com/</link>
     <description></description>
-    <pubDate>Sun, 17 Jul 2022 01:24:47 +0000</pubDate>
+    <pubDate>Sun, 17 Jul 2022 17:01:57 +0000</pubDate>
     
       <item>
         <title>Ma année en vins</title>
@@ -20,7 +20,7 @@ je voudrais me concentrer sur un région specifique ou peut-être un type du vin
 
 &lt;p /&gt;
 
-&lt;wine-region&gt;&lt;/wine-region&gt;
+&lt;div id=&quot;wine-region&quot;&gt;&lt;/div&gt;
 
 &lt;p /&gt;
 
