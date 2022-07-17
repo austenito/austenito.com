@@ -16,7 +16,7 @@ je voudrais me concentrer sur un région specifique ou peut-être un type du vin
 
 <p/>
 
-<wine-region></wine-region>
+<div id="wine-region"></div>
 
 <p/>
 

@@ -1,12 +1,5 @@
-// import { Vue } from 'vue';
-// import WineRegion from './components/WineRegion';
-//
-// Vue.component('wine-region', WineRegion);
-//
-// new Vue({}).$mount('#app');
-
 import { createApp } from 'vue'
-import WineRegion from './components/WineRegion';
+import App from './components/App';
 
-const app = createApp(WineRegion)
+const app = createApp(App)
 app.mount('#app')

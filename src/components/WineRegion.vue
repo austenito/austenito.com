@@ -1,10 +1,44 @@
 <script>
-import { Doughnut, Scatter } from "vue-chartjs";
+import { defineComponent, h, PropType } from 'vue'
 
-export default {
-  extends: Doughnut,
-  data: () => ({
-    chartdata: {
+import { Doughnut } from 'vue-chartjs'
+import {
+  Chart as ChartJS,
+  Title,
+  Tooltip,
+  Legend,
+  ArcElement,
+  CategoryScale,
+  Plugin
+} from 'chart.js'
+
+ChartJS.register(Title, Tooltip, Legend, ArcElement, CategoryScale)
+
+export default defineComponent({
+  name: 'DoughnutChart',
+  components: {
+    Doughnut
+  },
+  props: {
+    chartId: {
+      type: String,
+      default: 'doughnut-chart'
+    },
+    width: {
+      type: Number,
+      default: 400
+    },
+    height: {
+      type: Number,
+      default: 400
+    },
+    cssClasses: {
+      default: '',
+      type: String
+    }
+  },
+  setup(props) {
+    const chartData = {
       datasets: [
         {
           data: [19, 18, 2, 1, 1],
@@ -18,18 +52,25 @@ export default {
         },
       ],
 
-      labels: ["France", "États-Unis", "Espagne", "Italie", "Austria"],
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-    },
-  }),
-  mounted() {
-    this.renderChart(this.chartdata, this.options);
-  },
-};
-</script>
+      labels: ["France", "États-Unis", "Espagne", "Italie", "Austria"]
+    }
 
-<style>
-</style>
+    const chartOptions = {
+      responsive: true,
+      maintainAspectRatio: false
+    }
+
+    return () =>
+      h(Doughnut, {
+        chartData,
+        chartOptions,
+        chartId: props.chartId,
+        width: props.width,
+        height: props.height,
+        cssClasses: props.cssClasses,
+        styles: props.styles,
+        plugins: props.plugins
+      })
+  }
+})
+</script>
