@@ -1,7 +1,6 @@
 {
   "devDependencies": {
     "babel-loader": "^8.2.5",
-    "cross-env": "^7.0.3",
     "css-loader": "^6.7.1",
     "node-sass": "^7.0.1",
     "sass-loader": "^13.0.2",
@@ -12,9 +11,9 @@
     "webpack-cli": "^4.10.0"
   },
   "scripts": {
-    "js-dev": "cross-env NODE_ENV=development webpack",
-    "js-build": "cross-env NODE_ENV=production webpack --progress",
-    "js-watch": "cross-env NODE_ENV=development webpack --watch",
+    "js-dev": "webpack --config webpack.dev.js",
+    "js-build": "webpack --progress --config webpack.prod.js",
+    "js-watch": "webpack --watch --config webpack.dev.js",
     "docker-js-image": "docker build . --file Dockerfile.build-js -t austenito.com-js:latest",
     "docker-js-build": "docker run -v dist:/dist -v $(pwd):/app austenito.com-js:latest npm run js-build",
     "docker-js-build-dev": "docker run -v dist:/dist -v $(pwd):/app austenito.com-js:latest npm run js-dev",
