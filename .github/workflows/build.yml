@@ -27,6 +27,13 @@ jobs:
           npm run docker-js-build
           npm run docker-blog-build
 
+      - name: Cleanup
+        run: |
+          rm ./_site/Dockerfile*
+          rm ./_site/package*
+          rm ./_site/webpack*
+          rm ./_site/README
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
