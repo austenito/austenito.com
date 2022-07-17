@@ -1,0 +1,33 @@
+name: Build and Deploy
+on: [push]
+permissions:
+  contents: write
+
+env:
+  REGISTRY: registry.digitalocean.com/public-registry
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Log into registry ${{ env.REGISTRY }}
+        if: github.event_name != 'pull_request'
+        uses: docker/login-action@28218f9b04b4f3f62068d7b6ce6ca5b26e35336c
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ secrets.DO_API_TOKEN }}
+          password: ${{ secrets.DO_API_TOKEN }}
+
+      - name: Install and Build 🔧
+        run: |
+          npm run docker-js-image
+          npm run docker-js-build
+          npm run docker-blog-build
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
