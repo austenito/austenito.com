@@ -9,6 +9,6 @@ COPY package*.json ./
 
 RUN npm install
 
-COPY webpack* .
+COPY webpack* ./
 
 VOLUME ["/dist"]
