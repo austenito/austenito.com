@@ -25,3 +25,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+exclude:
+  - Dockerfile*
+  - package*
+  - webpack*
+  - README
+
